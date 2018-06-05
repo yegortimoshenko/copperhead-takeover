@@ -1,0 +1,766 @@
+<html op="item"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"><meta name="referrer" content="origin"><meta name="viewport" content="width=device-width, initial-scale=1.0"><link rel="stylesheet" type="text/css" href="CopperheadOS%20is%20undergoing%20a%20company%20takeover%20|%20Hacker%20News_files/news.css">
+            <link rel="shortcut icon" href="https://news.ycombinator.com/favicon.ico">
+        <title>CopperheadOS is undergoing a company takeover | Hacker News</title></head><body><center><table id="hnmain" cellspacing="0" cellpadding="0" border="0" bgcolor="#f6f6ef" width="85%">
+        <tbody><tr><td bgcolor="#ff6600"><table style="padding:2px" cellspacing="0" cellpadding="0" border="0" width="100%"><tbody><tr><td style="width:18px;padding-right:4px"><a href="https://news.ycombinator.com/"><img src="CopperheadOS%20is%20undergoing%20a%20company%20takeover%20|%20Hacker%20News_files/y18.gif" style="border:1px white solid;" width="18" height="18"></a></td>
+                  <td style="line-height:12pt; height:10px;"><span class="pagetop"><b class="hnname"><a href="https://news.ycombinator.com/news">Hacker News</a></b>
+              <a href="https://news.ycombinator.com/newest">new</a> | <a href="https://news.ycombinator.com/threads?id=yegortimoshenko">threads</a> | <a href="https://news.ycombinator.com/newcomments">comments</a> | <a href="https://news.ycombinator.com/show">show</a> | <a href="https://news.ycombinator.com/ask">ask</a> | <a href="https://news.ycombinator.com/jobs">jobs</a> | <a href="https://news.ycombinator.com/submit">submit</a>            </span></td><td style="text-align:right;padding-right:4px;"><span class="pagetop">
+                              <a id="me" href="https://news.ycombinator.com/user?id=yegortimoshenko">yegortimoshenko</a>                (110) |
+                <a id="logout" href="https://news.ycombinator.com/logout?auth=4a1bbdcd4cc9b2c5425bdf910f3c50ac00cc15b5&amp;goto=item%3Fid%3D17239259">logout</a>                          </span></td>
+              </tr></tbody></table></td></tr>
+<tr style="height:10px"></tr><tr><td><table class="fatitem" border="0">
+        <tbody><tr class="athing" id="17239259">
+      <td class="title" align="right" valign="top"><span class="rank"></span></td>      <td class="votelinks" valign="top"><center><font color="#ff6600">*</font><br>
+<img src="CopperheadOS%20is%20undergoing%20a%20company%20takeover%20|%20Hacker%20News_files/s.gif" width="14" height="1"></center></td><td class="title"><a href="https://gitlab.com/yegortimoshenko/copperhead-takeover/blob/master/CopperheadOS%20Twitter%2005-06-18.txt" class="storylink">CopperheadOS is undergoing a company takeover</a><span class="sitebit comhead"> (<a href="https://news.ycombinator.com/from?site=gitlab.com"><span class="sitestr">gitlab.com</span></a>)</span></td></tr><tr><td colspan="2"></td><td class="subtext">
+        <span class="score" id="score_17239259">53 points</span> by <a href="https://news.ycombinator.com/user?id=yegortimoshenko" class="hnuser">yegortimoshenko</a> <span class="age"><a href="https://news.ycombinator.com/item?id=17239259">1 hour ago</a></span> <span id="unv_17239259"></span> | <a href="https://news.ycombinator.com/hide?id=17239259&amp;goto=item%3Fid%3D17239259&amp;auth=8eda44f0575b019f24bda8a9e1beeedb00268d5f">hide</a> | <a href="https://hn.algolia.com/?query=CopperheadOS%20is%20undergoing%20a%20company%20takeover&amp;sort=byDate&amp;dateRange=all&amp;type=story&amp;storyText=false&amp;prefix&amp;page=0" class="hnpast">past</a> | <a href="https://www.google.com/search?q=CopperheadOS%20is%20undergoing%20a%20company%20takeover">web</a> | <a href="https://news.ycombinator.com/fave?id=17239259&amp;auth=8eda44f0575b019f24bda8a9e1beeedb00268d5f">favorite</a> | <a href="https://news.ycombinator.com/item?id=17239259">56&nbsp;comments</a>              </td></tr>
+            <tr style="height:10px"></tr><tr><td colspan="2"></td><td>
+          <form method="post" action="comment"><input name="parent" value="17239259" type="hidden"><input name="goto" value="item?id=17239259" type="hidden"><input name="hmac" value="db3d861bf988fe64dfbc4ceb2b5722f24cda2a6f" type="hidden"><textarea name="text" rows="6" cols="60"></textarea>
+                <br><br><input value="add comment" type="submit"></form>
+      </td></tr>
+  </tbody></table><br><br>
+  <table class="comment-tree" border="0">
+            <tbody><tr class="athing comtr " id="17240183"><td>
+            <table border="0">  <tbody><tr>    <td class="ind"><img src="CopperheadOS%20is%20undergoing%20a%20company%20takeover%20|%20Hacker%20News_files/s.gif" width="0" height="1"></td><td class="votelinks" valign="top"><center><a id="up_17240183" onclick='return vote(event, this, "up")' href="https://news.ycombinator.com/vote?id=17240183&amp;how=up&amp;auth=ae642fa04398c4d7b394dd5cfe87468336d25ff8&amp;goto=item%3Fid%3D17239259#17240183" class="nosee "><div class="votearrow" title="upvote"></div></a></center></td><td class="default"><div style="margin-top:2px; margin-bottom:-10px;"><span class="comhead">
+          <a href="https://news.ycombinator.com/user?id=aaomidi" class="hnuser">aaomidi</a> <span class="age"><a href="https://news.ycombinator.com/item?id=17240183">1 minute ago</a></span> <span id="unv_17240183"> | <a id="un_17240183" onclick='return vote(event, this,"un")' href="https://news.ycombinator.com/vote?id=17240183&amp;how=un&amp;auth=ae642fa04398c4d7b394dd5cfe87468336d25ff8&amp;goto=item%3Fid%3D17239259#17240183">unvote</a></span><span class="par"></span> <a class="togg" n="1" href="javascript:void(0)" onclick="return toggle(event, 17240183)">[-]</a>          <span class="storyon"></span>
+                  </span></div><br><div class="comment">
+                  <span class="c00">This CEO is absolutely toxic. He's 
+coming here, insulting everyone who disagrees with him and is 
+essentially trying to attack the CTO as a person.<p>Hopefully this will get forked and the CEO will learn a lesson of respect and self control.<span>
+              </span></p><div class="reply">        <p><font size="1">
+                      <u><a href="https://news.ycombinator.com/reply?id=17240183&amp;goto=item%3Fid%3D17239259%2317240183">reply</a></u>
+                  </font>
+      </p></div></span></div></td></tr>
+      </tbody></table></td></tr>
+              <tr class="athing comtr " id="17239583"><td>
+            <table border="0">  <tbody><tr>    <td class="ind"><img src="CopperheadOS%20is%20undergoing%20a%20company%20takeover%20|%20Hacker%20News_files/s.gif" width="0" height="1"></td><td class="votelinks" valign="top"><center><a id="up_17239583" onclick='return vote(event, this, "up")' href="https://news.ycombinator.com/vote?id=17239583&amp;how=up&amp;auth=d1b1e4cfda4656aead24f2ff1c144b5586cfa25a&amp;goto=item%3Fid%3D17239259#17239583" class="nosee"><div class="votearrow" title="upvote"></div></a></center></td><td class="default"><div style="margin-top:2px; margin-bottom:-10px;"><span class="comhead">
+          <a href="https://news.ycombinator.com/user?id=kingbirdy" class="hnuser">kingbirdy</a> <span class="age"><a href="https://news.ycombinator.com/item?id=17239583">52 minutes ago</a></span> <span id="unv_17239583"> | <a id="un_17239583" onclick='return vote(event, this, "un")' href="https://news.ycombinator.com/vote?id=17239583&amp;how=un&amp;auth=d1b1e4cfda4656aead24f2ff1c144b5586cfa25a&amp;goto=item%3Fid%3D17239259#17239583">unvote</a></span><span class="par"></span> <a class="togg" n="13" href="javascript:void(0)" onclick="return toggle(event, 17239583)">[-]</a>          <span class="storyon"></span>
+                  </span></div><br><div class="comment">
+                  <span class="c00">On reading the linked legal 
+documents [0][1], it seems that the CEO is trying to make the case that 
+the CTO is focusing on CopperheadOS in a development role, rather than 
+looking at it as a product. I don't know if that's true or not, but I 
+could see why it would lead to this conflict.<p>However, I'm curious how
+ Copperhead the company can send these letters demanding that the 50% 
+co-owner do this or that. As equal owner, couldn't he respond to these 
+letters by asking the company lawyers to send a letter back to the CEO 
+making similar demands? Is the CEO "more in control" than the CTO 
+because CEO is a higher position, even though they're equal partners?</p><p>[0]: <a href="https://paste.xinu.at/RrWPGW/" rel="nofollow">https://paste.xinu.at/RrWPGW/</a></p><p>[1]: <a href="https://paste.xinu.at/MBEyCM/" rel="nofollow">https://paste.xinu.at/MBEyCM/</a><span>
+              </span></p><div class="reply">        <p><font size="1">
+                      <u><a href="https://news.ycombinator.com/reply?id=17239583&amp;goto=item%3Fid%3D17239259%2317239583">reply</a></u>
+                  </font>
+      </p></div></span></div></td></tr>
+      </tbody></table></td></tr>
+        <tr class="athing comtr " id="17239667"><td>
+            <table border="0">  <tbody><tr>    <td class="ind"><img src="CopperheadOS%20is%20undergoing%20a%20company%20takeover%20|%20Hacker%20News_files/s.gif" width="40" height="1"></td><td class="votelinks" valign="top"><center><a id="up_17239667" onclick='return vote(event, this, "up")' href="https://news.ycombinator.com/vote?id=17239667&amp;how=up&amp;auth=0754bc1b60df770016fce901cdd60bf944a5b652&amp;goto=item%3Fid%3D17239259#17239667"><div class="votearrow" title="upvote"></div></a></center></td><td class="default"><div style="margin-top:2px; margin-bottom:-10px;"><span class="comhead">
+          <a href="https://news.ycombinator.com/user?id=geofft" class="hnuser">geofft</a> <span class="age"><a href="https://news.ycombinator.com/item?id=17239667">44 minutes ago</a></span> <span id="unv_17239667"></span><span class="par"></span> <a class="togg" n="3" href="javascript:void(0)" onclick="return toggle(event, 17239667)">[-]</a>          <span class="storyon"></span>
+                  </span></div><br><div class="comment">
+                  <span class="c00">The letters also say that the CEO is sole director of the corporation, which might be relevant?<span>
+              </span><div class="reply">        <p><font size="1">
+                      <u><a href="https://news.ycombinator.com/reply?id=17239667&amp;goto=item%3Fid%3D17239259%2317239667">reply</a></u>
+                  </font>
+      </p></div></span></div></td></tr>
+      </tbody></table></td></tr>
+        <tr class="athing comtr " id="17239825"><td>
+            <table border="0">  <tbody><tr>    <td class="ind"><img src="CopperheadOS%20is%20undergoing%20a%20company%20takeover%20|%20Hacker%20News_files/s.gif" width="80" height="1"></td><td class="votelinks" valign="top"><center><a id="up_17239825" onclick='return vote(event, this, "up")' href="https://news.ycombinator.com/vote?id=17239825&amp;how=up&amp;auth=77e8a60cf6de1ed1d8afdf0e427c7b3aa2875729&amp;goto=item%3Fid%3D17239259#17239825"><div class="votearrow" title="upvote"></div></a></center></td><td class="default"><div style="margin-top:2px; margin-bottom:-10px;"><span class="comhead">
+          <a href="https://news.ycombinator.com/user?id=LyndsySimon" class="hnuser">LyndsySimon</a> <span class="age"><a href="https://news.ycombinator.com/item?id=17239825">30 minutes ago</a></span> <span id="unv_17239825"></span><span class="par"></span> <a class="togg" n="1" href="javascript:void(0)" onclick="return toggle(event, 17239825)">[-]</a>          <span class="storyon"></span>
+                  </span></div><br><div class="comment">
+                  <span class="c00">IANAL, but if the operating 
+agreement is set up so that the CEO has a specific power, then the next 
+layer up would be for the shareholders to amend the operating agreement.
+ If the CEO and CTO are equal partners, neither would be able to obtain a
+ majority vote and the operating agreement would stay as it is - 
+assuming, of course, that the agreement requires a majority vote for 
+amendment.<p>It sounds like the CEO de facto controls the company in 
+this case, and can ignore the other shareholder at will. He could block 
+communications with him and basically have a silent partner.<span>
+              </span></p><div class="reply">        <p><font size="1">
+                      <u><a href="https://news.ycombinator.com/reply?id=17239825&amp;goto=item%3Fid%3D17239259%2317239825">reply</a></u>
+                  </font>
+      </p></div></span></div></td></tr>
+      </tbody></table></td></tr>
+    <tr class="athing comtr " id="17239685"><td>
+            <table border="0">  <tbody><tr>    <td class="ind"><img src="CopperheadOS%20is%20undergoing%20a%20company%20takeover%20|%20Hacker%20News_files/s.gif" width="80" height="1"></td><td class="votelinks" valign="top"><center><a id="up_17239685" onclick='return vote(event, this, "up")' href="https://news.ycombinator.com/vote?id=17239685&amp;how=up&amp;auth=0d86beb8745712b480e48f4ac4008202b4b4553e&amp;goto=item%3Fid%3D17239259#17239685"><div class="votearrow" title="upvote"></div></a></center></td><td class="default"><div style="margin-top:2px; margin-bottom:-10px;"><span class="comhead">
+          <a href="https://news.ycombinator.com/user?id=kingbirdy" class="hnuser">kingbirdy</a> <span class="age"><a href="https://news.ycombinator.com/item?id=17239685">43 minutes ago</a></span> <span id="unv_17239685"></span><span class="par"></span> <a class="togg" n="1" href="javascript:void(0)" onclick="return toggle(event, 17239685)">[-]</a>          <span class="storyon"></span>
+                  </span></div><br><div class="comment">
+                  <span class="c00">Sorry, I'm unfamiliar with with 
+corprate structure - would that mean he's the only member of the board? 
+In that case I suppose I see how he could be the one making demands, 
+since the CTO with only a 50% share wouldn't be able to restructure the 
+board to include himself.<span>
+              </span><div class="reply">        <p><font size="1">
+                      <u><a href="https://news.ycombinator.com/reply?id=17239685&amp;goto=item%3Fid%3D17239259%2317239685">reply</a></u>
+                  </font>
+      </p></div></span></div></td></tr>
+      </tbody></table></td></tr>
+      <tr class="athing comtr " id="17239711"><td>
+            <table border="0">  <tbody><tr>    <td class="ind"><img src="CopperheadOS%20is%20undergoing%20a%20company%20takeover%20|%20Hacker%20News_files/s.gif" width="40" height="1"></td><td class="votelinks" valign="top"><center><a id="up_17239711" onclick='return vote(event, this, "up")' href="https://news.ycombinator.com/vote?id=17239711&amp;how=up&amp;auth=48aa37d0a6e3fff5af010a0019f05a1f94c49630&amp;goto=item%3Fid%3D17239259#17239711"><div class="votearrow" title="upvote"></div></a></center></td><td class="default"><div style="margin-top:2px; margin-bottom:-10px;"><span class="comhead">
+          <a href="https://news.ycombinator.com/user?id=_jayy" class="hnuser">_jayy</a> <span class="age"><a href="https://news.ycombinator.com/item?id=17239711">40 minutes ago</a></span> <span id="unv_17239711"></span><span class="par"></span> <a class="togg" n="9" href="javascript:void(0)" onclick="return toggle(event, 17239711)">[-]</a>          <span class="storyon"></span>
+                  </span></div><br><div class="comment">
+                  <span class="c73">The articles clearly state that we're interested in Daniel Micay adopting a refined CTO role, rather than a absentee one.<span>
+              </span><div class="reply">        <p><font size="1">
+                      <u><a href="https://news.ycombinator.com/reply?id=17239711&amp;goto=item%3Fid%3D17239259%2317239711">reply</a></u>
+                  </font>
+      </p></div></span></div></td></tr>
+      </tbody></table></td></tr>
+        <tr class="athing comtr " id="17239787"><td>
+            <table border="0">  <tbody><tr>    <td class="ind"><img src="CopperheadOS%20is%20undergoing%20a%20company%20takeover%20|%20Hacker%20News_files/s.gif" width="80" height="1"></td><td class="votelinks" valign="top"><center><a id="up_17239787" onclick='return vote(event, this, "up")' href="https://news.ycombinator.com/vote?id=17239787&amp;how=up&amp;auth=9288519e52b00a1207f900ae0bfc07d3fdd1b394&amp;goto=item%3Fid%3D17239259#17239787"><div class="votearrow" title="upvote"></div></a></center></td><td class="default"><div style="margin-top:2px; margin-bottom:-10px;"><span class="comhead">
+          <a href="https://news.ycombinator.com/user?id=zajd" class="hnuser">zajd</a> <span class="age"><a href="https://news.ycombinator.com/item?id=17239787">34 minutes ago</a></span> <span id="unv_17239787"></span><span class="par"></span> <a class="togg" n="3" href="javascript:void(0)" onclick="return toggle(event, 17239787)">[-]</a>          <span class="storyon"></span>
+                  </span></div><br><div class="comment">
+                  <span class="c00">"refined" ie put in a place where you can control him explicitly<span>
+              </span><div class="reply">        <p><font size="1">
+                      <u><a href="https://news.ycombinator.com/reply?id=17239787&amp;goto=item%3Fid%3D17239259%2317239787">reply</a></u>
+                  </font>
+      </p></div></span></div></td></tr>
+      </tbody></table></td></tr>
+        <tr class="athing comtr " id="17239842"><td>
+            <table border="0">  <tbody><tr>    <td class="ind"><img src="CopperheadOS%20is%20undergoing%20a%20company%20takeover%20|%20Hacker%20News_files/s.gif" width="120" height="1"></td><td class="votelinks" valign="top"><center><a id="up_17239842" onclick='return vote(event, this, "up")' href="https://news.ycombinator.com/vote?id=17239842&amp;how=up&amp;auth=383181efe85950851d57cdac97db032248dc6c8b&amp;goto=item%3Fid%3D17239259#17239842"><div class="votearrow" title="upvote"></div></a></center></td><td class="default"><div style="margin-top:2px; margin-bottom:-10px;"><span class="comhead">
+          <a href="https://news.ycombinator.com/user?id=_jayy" class="hnuser">_jayy</a> <span class="age"><a href="https://news.ycombinator.com/item?id=17239842">28 minutes ago</a></span> <span id="unv_17239842"></span><span class="par"></span> <a class="togg" n="2" href="javascript:void(0)" onclick="return toggle(event, 17239842)">[-]</a>          <span class="storyon"></span>
+                  </span></div><br><div class="comment">
+                  <span class="c00">The letter outlines the actions we 
+would like him to take as the CTO. If you note, we said that we would 
+prefer to move with him towards refining the CTO role - it's all there.<span>
+              </span><div class="reply">        <p><font size="1">
+                      <u><a href="https://news.ycombinator.com/reply?id=17239842&amp;goto=item%3Fid%3D17239259%2317239842">reply</a></u>
+                  </font>
+      </p></div></span></div></td></tr>
+      </tbody></table></td></tr>
+        <tr class="athing comtr " id="17239949"><td>
+            <table border="0">  <tbody><tr>    <td class="ind"><img src="CopperheadOS%20is%20undergoing%20a%20company%20takeover%20|%20Hacker%20News_files/s.gif" width="160" height="1"></td><td class="votelinks" valign="top"><center><a id="up_17239949" onclick='return vote(event, this, "up")' href="https://news.ycombinator.com/vote?id=17239949&amp;how=up&amp;auth=af21a1e746b303ad8728886b84c0f9cbc78c8fd8&amp;goto=item%3Fid%3D17239259#17239949"><div class="votearrow" title="upvote"></div></a></center></td><td class="default"><div style="margin-top:2px; margin-bottom:-10px;"><span class="comhead">
+          <a href="https://news.ycombinator.com/user?id=kingbirdy" class="hnuser">kingbirdy</a> <span class="age"><a href="https://news.ycombinator.com/item?id=17239949">19 minutes ago</a></span> <span id="unv_17239949"></span><span class="par"></span> <a class="togg" n="1" href="javascript:void(0)" onclick="return toggle(event, 17239949)">[-]</a>          <span class="storyon"></span>
+                  </span></div><br><div class="comment">
+                  <span class="c00">Actually, the letter says "On the 
+assumption that you have no wish to depart the Company, the elements of a
+ CTO
+job description the Company considers important are set out in the 
+attached proposed
+job description. We invite your comments on that draft." So without the 
+contents of the attachment, we can't know what actions you're saying you
+ expect of him.<span>
+              </span><div class="reply">        <p><font size="1">
+                      <u><a href="https://news.ycombinator.com/reply?id=17239949&amp;goto=item%3Fid%3D17239259%2317239949">reply</a></u>
+                  </font>
+      </p></div></span></div></td></tr>
+      </tbody></table></td></tr>
+        <tr class="athing comtr " id="17239851"><td>
+            <table border="0">  <tbody><tr>    <td class="ind"><img src="CopperheadOS%20is%20undergoing%20a%20company%20takeover%20|%20Hacker%20News_files/s.gif" width="80" height="1"></td><td class="votelinks" valign="top"><center><a id="up_17239851" onclick='return vote(event, this, "up")' href="https://news.ycombinator.com/vote?id=17239851&amp;how=up&amp;auth=10298a2d539897ec726b421512377870ce9627ca&amp;goto=item%3Fid%3D17239259#17239851"><div class="votearrow" title="upvote"></div></a></center></td><td class="default"><div style="margin-top:2px; margin-bottom:-10px;"><span class="comhead">
+          <a href="https://news.ycombinator.com/user?id=vesak" class="hnuser">vesak</a> <span class="age"><a href="https://news.ycombinator.com/item?id=17239851">28 minutes ago</a></span> <span id="unv_17239851"></span><span class="par"></span> <a class="togg" n="4" href="javascript:void(0)" onclick="return toggle(event, 17239851)">[-]</a>          <span class="storyon"></span>
+                  </span></div><br><div class="comment">
+                  <span class="c00">Who's we here? The documents seem to imply that you have 50%, Daniel has 50%. Are you referring to yourself in plural?<span>
+              </span><div class="reply">        <p><font size="1">
+                      <u><a href="https://news.ycombinator.com/reply?id=17239851&amp;goto=item%3Fid%3D17239259%2317239851">reply</a></u>
+                  </font>
+      </p></div></span></div></td></tr>
+      </tbody></table></td></tr>
+        <tr class="athing comtr " id="17239872"><td>
+            <table border="0">  <tbody><tr>    <td class="ind"><img src="CopperheadOS%20is%20undergoing%20a%20company%20takeover%20|%20Hacker%20News_files/s.gif" width="120" height="1"></td><td class="votelinks" valign="top"><center><a id="up_17239872" onclick='return vote(event, this, "up")' href="https://news.ycombinator.com/vote?id=17239872&amp;how=up&amp;auth=989ca811bd2581e26299c96dff7d794ff0906852&amp;goto=item%3Fid%3D17239259#17239872"><div class="votearrow" title="upvote"></div></a></center></td><td class="default"><div style="margin-top:2px; margin-bottom:-10px;"><span class="comhead">
+          <a href="https://news.ycombinator.com/user?id=_jayy" class="hnuser">_jayy</a> <span class="age"><a href="https://news.ycombinator.com/item?id=17239872">26 minutes ago</a></span> <span id="unv_17239872"></span><span class="par"></span> <a class="togg" n="3" href="javascript:void(0)" onclick="return toggle(event, 17239872)">[-]</a>          <span class="storyon"></span>
+                  </span></div><br><div class="comment">
+                  <span class="c00">Copperhead is more than just Daniel and myself.<span>
+              </span><div class="reply">        <p><font size="1">
+                      <u><a href="https://news.ycombinator.com/reply?id=17239872&amp;goto=item%3Fid%3D17239259%2317239872">reply</a></u>
+                  </font>
+      </p></div></span></div></td></tr>
+      </tbody></table></td></tr>
+        <tr class="athing comtr " id="17239914"><td>
+            <table border="0">  <tbody><tr>    <td class="ind"><img src="CopperheadOS%20is%20undergoing%20a%20company%20takeover%20|%20Hacker%20News_files/s.gif" width="160" height="1"></td><td class="votelinks" valign="top"><center><a id="up_17239914" onclick='return vote(event, this, "up")' href="https://news.ycombinator.com/vote?id=17239914&amp;how=up&amp;auth=6b9760043c7ac406693dd134d223f4db32286c14&amp;goto=item%3Fid%3D17239259#17239914"><div class="votearrow" title="upvote"></div></a></center></td><td class="default"><div style="margin-top:2px; margin-bottom:-10px;"><span class="comhead">
+          <a href="https://news.ycombinator.com/user?id=jhayward" class="hnuser">jhayward</a> <span class="age"><a href="https://news.ycombinator.com/item?id=17239914">22 minutes ago</a></span> <span id="unv_17239914"></span><span class="par"></span> <a class="togg" n="2" href="javascript:void(0)" onclick="return toggle(event, 17239914)">[-]</a>          <span class="storyon"></span>
+                  </span></div><br><div class="comment">
+                  <span class="c00">Who is 'we'?  Don't be coy.<span>
+              </span><div class="reply">        <p><font size="1">
+                      <u><a href="https://news.ycombinator.com/reply?id=17239914&amp;goto=item%3Fid%3D17239259%2317239914">reply</a></u>
+                  </font>
+      </p></div></span></div></td></tr>
+      </tbody></table></td></tr>
+        <tr class="athing comtr " id="17239994"><td>
+            <table border="0">  <tbody><tr>    <td class="ind"><img src="CopperheadOS%20is%20undergoing%20a%20company%20takeover%20|%20Hacker%20News_files/s.gif" width="200" height="1"></td><td class="votelinks" valign="top"><center><a id="up_17239994" onclick='return vote(event, this, "up")' href="https://news.ycombinator.com/vote?id=17239994&amp;how=up&amp;auth=4dcb8b3ac3d2b36fd369a59f157fc20b9de7cf4c&amp;goto=item%3Fid%3D17239259#17239994"><div class="votearrow" title="upvote"></div></a></center></td><td class="default"><div style="margin-top:2px; margin-bottom:-10px;"><span class="comhead">
+          <a href="https://news.ycombinator.com/user?id=rhencke" class="hnuser">rhencke</a> <span class="age"><a href="https://news.ycombinator.com/item?id=17239994">17 minutes ago</a></span> <span id="unv_17239994"></span><span class="par"></span> <a class="togg" n="1" href="javascript:void(0)" onclick="return toggle(event, 17239994)">[-]</a>          <span class="storyon"></span>
+                  </span></div><br><div class="comment">
+                  <span class="c00">Why publicly name out real people who may not have any involvement in this issue whatsoever?  What did they do to deserve that?<span>
+              </span><div class="reply">        <p><font size="1">
+                      <u><a href="https://news.ycombinator.com/reply?id=17239994&amp;goto=item%3Fid%3D17239259%2317239994">reply</a></u>
+                  </font>
+      </p></div></span></div></td></tr>
+      </tbody></table></td></tr>
+          <tr class="athing comtr " id="17239913"><td>
+            <table border="0">  <tbody><tr>    <td class="ind"><img src="CopperheadOS%20is%20undergoing%20a%20company%20takeover%20|%20Hacker%20News_files/s.gif" width="80" height="1"></td><td class="votelinks" valign="top"><center><a id="up_17239913" onclick='return vote(event, this, "up")' href="https://news.ycombinator.com/vote?id=17239913&amp;how=up&amp;auth=79e1f58186f0ac887b030881f0c2871aebacd829&amp;goto=item%3Fid%3D17239259#17239913"><div class="votearrow" title="upvote"></div></a></center></td><td class="default"><div style="margin-top:2px; margin-bottom:-10px;"><span class="comhead">
+          <a href="https://news.ycombinator.com/user?id=sam0x17" class="hnuser">sam0x17</a> <span class="age"><a href="https://news.ycombinator.com/item?id=17239913">22 minutes ago</a></span> <span id="unv_17239913"></span><span class="par"></span> <a class="togg" n="1" href="javascript:void(0)" onclick="return toggle(event, 17239913)">[-]</a>          <span class="storyon"></span>
+                  </span></div><br><div class="comment">
+                  <span class="c00">spoken like a true Machiavellian<span>
+              </span><div class="reply">        <p><font size="1">
+                      <u><a href="https://news.ycombinator.com/reply?id=17239913&amp;goto=item%3Fid%3D17239259%2317239913">reply</a></u>
+                  </font>
+      </p></div></span></div></td></tr>
+      </tbody></table></td></tr>
+                  <tr class="athing comtr " id="17239904"><td>
+            <table border="0">  <tbody><tr>    <td class="ind"><img src="CopperheadOS%20is%20undergoing%20a%20company%20takeover%20|%20Hacker%20News_files/s.gif" width="0" height="1"></td><td class="votelinks" valign="top"><center><a id="up_17239904" onclick='return vote(event, this, "up")' href="https://news.ycombinator.com/vote?id=17239904&amp;how=up&amp;auth=63a06e1faa3141ea4ae005138d25141432b6d1e9&amp;goto=item%3Fid%3D17239259#17239904"><div class="votearrow" title="upvote"></div></a></center></td><td class="default"><div style="margin-top:2px; margin-bottom:-10px;"><span class="comhead">
+          <a href="https://news.ycombinator.com/user?id=AdamM12" class="hnuser">AdamM12</a> <span class="age"><a href="https://news.ycombinator.com/item?id=17239904">23 minutes ago</a></span> <span id="unv_17239904"></span><span class="par"></span> <a class="togg" n="1" href="javascript:void(0)" onclick="return toggle(event, 17239904)">[-]</a>          <span class="storyon"></span>
+                  </span></div><br><div class="comment">
+                  <span class="c00">Sounds to me like the company is 
+doing what it needs to do to maintain a going concern and ensure it has 
+the paperwork in place for any future transaction (investment or sale). 
+The company has to have an operating agreement with all employees' 
+contracts in place especially the higher-up/founders as well as ensure 
+it's IP is properly accounted for. Kinda reminds me of when the agency 
+in Mad Men merges and Draper doesn't have an actual contract. Sorry for 
+any spoilers. To me it sounds like this guy is unwilling to have other 
+people access the IP which in any business is necessary. Worked at a 
+company where the former CMO was the only person who had access to the 
+FB page and was fired. We didn't get access back till months later and 
+fortunately without any legal intervention. No one person should have 
+sole access to such critical functions.<p>Edit: should note (although 
+obvious) I am not privy to all the conversations these parties have had 
+so I am only aware of what has been posted.<span>
+              </span></p><div class="reply">        <p><font size="1">
+                      <u><a href="https://news.ycombinator.com/reply?id=17239904&amp;goto=item%3Fid%3D17239259%2317239904">reply</a></u>
+                  </font>
+      </p></div></span></div></td></tr>
+      </tbody></table></td></tr>
+              <tr class="athing comtr " id="17239837"><td>
+            <table border="0">  <tbody><tr>    <td class="ind"><img src="CopperheadOS%20is%20undergoing%20a%20company%20takeover%20|%20Hacker%20News_files/s.gif" width="0" height="1"></td><td class="votelinks" valign="top"><center><a id="up_17239837" onclick='return vote(event, this, "up")' href="https://news.ycombinator.com/vote?id=17239837&amp;how=up&amp;auth=ae16f90e322272cd11b412746ede6f4481839e13&amp;goto=item%3Fid%3D17239259#17239837" class="nosee "><div class="votearrow" title="upvote"></div></a></center></td><td class="default"><div style="margin-top:2px; margin-bottom:-10px;"><span class="comhead">
+          <a href="https://news.ycombinator.com/user?id=deedubaya" class="hnuser">deedubaya</a> <span class="age"><a href="https://news.ycombinator.com/item?id=17239837">29 minutes ago</a></span> <span id="unv_17239837"> | <a id="un_17239837" onclick='return vote(event, this,"un")' href="https://news.ycombinator.com/vote?id=17239837&amp;how=un&amp;auth=ae16f90e322272cd11b412746ede6f4481839e13&amp;goto=item%3Fid%3D17239259#17239837">unvote</a></span><span class="par"></span> <a class="togg" n="5" href="javascript:void(0)" onclick="return toggle(event, 17239837)">[-]</a>          <span class="storyon"></span>
+                  </span></div><br><div class="comment">
+                  <span class="c00">I am simply an observer, but the fact that the CEO is here in the comment section of HN slinging mud is pretty telling.<p>I mean, I understand the desire to stand up for oneself, but there are probably better avenues that a CEO should take.<span>
+              </span></p><div class="reply">        <p><font size="1">
+                      <u><a href="https://news.ycombinator.com/reply?id=17239837&amp;goto=item%3Fid%3D17239259%2317239837">reply</a></u>
+                  </font>
+      </p></div></span></div></td></tr>
+      </tbody></table></td></tr>
+        <tr class="athing comtr " id="17239878"><td>
+            <table border="0">  <tbody><tr>    <td class="ind"><img src="CopperheadOS%20is%20undergoing%20a%20company%20takeover%20|%20Hacker%20News_files/s.gif" width="40" height="1"></td><td class="votelinks" valign="top"><center><a id="up_17239878" onclick='return vote(event, this, "up")' href="https://news.ycombinator.com/vote?id=17239878&amp;how=up&amp;auth=eac0b61fb573738f700c71076e585fbb202c85db&amp;goto=item%3Fid%3D17239259#17239878"><div class="votearrow" title="upvote"></div></a></center></td><td class="default"><div style="margin-top:2px; margin-bottom:-10px;"><span class="comhead">
+          <a href="https://news.ycombinator.com/user?id=_jayy" class="hnuser">_jayy</a> <span class="age"><a href="https://news.ycombinator.com/item?id=17239878">25 minutes ago</a></span> <span id="unv_17239878"></span><span class="par"></span> <a class="togg" n="4" href="javascript:void(0)" onclick="return toggle(event, 17239878)">[-]</a>          <span class="storyon"></span>
+                  </span></div><br><div class="comment">
+                  <span class="c00">such as sending a legal letter hoping for a peaceful resolution?<span>
+              </span><div class="reply">        <p><font size="1">
+                      <u><a href="https://news.ycombinator.com/reply?id=17239878&amp;goto=item%3Fid%3D17239259%2317239878">reply</a></u>
+                  </font>
+      </p></div></span></div></td></tr>
+      </tbody></table></td></tr>
+        <tr class="athing comtr " id="17240143"><td>
+            <table border="0">  <tbody><tr>    <td class="ind"><img src="CopperheadOS%20is%20undergoing%20a%20company%20takeover%20|%20Hacker%20News_files/s.gif" width="80" height="1"></td><td class="votelinks" valign="top"><center><a id="up_17240143" onclick='return vote(event, this, "up")' href="https://news.ycombinator.com/vote?id=17240143&amp;how=up&amp;auth=7d727f9c957fbac5abbdf288543d3a5e21cb9380&amp;goto=item%3Fid%3D17239259#17240143"><div class="votearrow" title="upvote"></div></a></center></td><td class="default"><div style="margin-top:2px; margin-bottom:-10px;"><span class="comhead">
+          <a href="https://news.ycombinator.com/user?id=deedubaya" class="hnuser">deedubaya</a> <span class="age"><a href="https://news.ycombinator.com/item?id=17240143">4 minutes ago</a></span> <span id="unv_17240143"></span><span class="par"></span> <a class="togg" n="1" href="javascript:void(0)" onclick="return toggle(event, 17240143)">[-]</a>          <span class="storyon"></span>
+                  </span></div><br><div class="comment">
+                  <span class="c00">Previous actions aside, when is it 
+ever a good idea to argue with internet trolls in _any_ comment section 
+as a CEO? Especially when it involves executive level disputes?<p>What 
+could you possibly gain that would be a net gain from commenting here? 
+Aren't you concerned about customer and investor blow back from you 
+simply commenting outside of a legal letter seeking a peaceful 
+resolution?<span>
+              </span></p><div class="reply">        <p><font size="1">
+                      <u><a href="https://news.ycombinator.com/reply?id=17240143&amp;goto=item%3Fid%3D17239259%2317240143">reply</a></u>
+                  </font>
+      </p></div></span></div></td></tr>
+      </tbody></table></td></tr>
+    <tr class="athing comtr " id="17239993"><td>
+            <table border="0">  <tbody><tr>    <td class="ind"><img src="CopperheadOS%20is%20undergoing%20a%20company%20takeover%20|%20Hacker%20News_files/s.gif" width="80" height="1"></td><td class="votelinks" valign="top"><center><a id="up_17239993" onclick='return vote(event, this, "up")' href="https://news.ycombinator.com/vote?id=17239993&amp;how=up&amp;auth=e406b18fe46e4960e136774a6c186af07ff3a063&amp;goto=item%3Fid%3D17239259#17239993"><div class="votearrow" title="upvote"></div></a></center></td><td class="default"><div style="margin-top:2px; margin-bottom:-10px;"><span class="comhead">
+          <a href="https://news.ycombinator.com/user?id=sam0x17" class="hnuser">sam0x17</a> <span class="age"><a href="https://news.ycombinator.com/item?id=17239993">17 minutes ago</a></span> <span id="unv_17239993"></span><span class="par"></span> <a class="togg" n="2" href="javascript:void(0)" onclick="return toggle(event, 17239993)">[-]</a>          <span class="storyon"></span>
+                  </span></div><br><div class="comment">
+                  <span class="c73">You'll probably get the most mileage
+ out of a coding bootcamp or a CS degree. As a non-technical founder you
+ face an insurmountable knowledge and culture gap.<span>
+              </span><div class="reply">        <p><font size="1">
+                      <u><a href="https://news.ycombinator.com/reply?id=17239993&amp;goto=item%3Fid%3D17239259%2317239993">reply</a></u>
+                  </font>
+      </p></div></span></div></td></tr>
+      </tbody></table></td></tr>
+        <tr class="athing comtr " id="17240013"><td>
+            <table border="0">  <tbody><tr>    <td class="ind"><img src="CopperheadOS%20is%20undergoing%20a%20company%20takeover%20|%20Hacker%20News_files/s.gif" width="120" height="1"></td><td class="votelinks" valign="top"><center><a id="up_17240013" onclick='return vote(event, this, "up")' href="https://news.ycombinator.com/vote?id=17240013&amp;how=up&amp;auth=2bf051ad034d0b9e1757ce3a98e74f8aa33c6460&amp;goto=item%3Fid%3D17239259#17240013"><div class="votearrow" title="upvote"></div></a></center></td><td class="default"><div style="margin-top:2px; margin-bottom:-10px;"><span class="comhead">
+          <a href="https://news.ycombinator.com/user?id=_jayy" class="hnuser">_jayy</a> <span class="age"><a href="https://news.ycombinator.com/item?id=17240013">14 minutes ago</a></span> <span id="unv_17240013"></span><span class="par"></span> <a class="togg" n="1" href="javascript:void(0)" onclick="return toggle(event, 17240013)">[-]</a>          <span class="storyon"></span>
+                  </span></div><br><div class="comment">
+                  <span class="c00">You're assuming I'm not technical.<span>
+              </span><div class="reply">        <p><font size="1">
+                      <u><a href="https://news.ycombinator.com/reply?id=17240013&amp;goto=item%3Fid%3D17239259%2317240013">reply</a></u>
+                  </font>
+      </p></div></span></div></td></tr>
+      </tbody></table></td></tr>
+                    <tr class="athing comtr " id="17239469"><td>
+            <table border="0">  <tbody><tr>    <td class="ind"><img src="CopperheadOS%20is%20undergoing%20a%20company%20takeover%20|%20Hacker%20News_files/s.gif" width="0" height="1"></td><td class="votelinks" valign="top"><center><a id="up_17239469" onclick='return vote(event, this, "up")' href="https://news.ycombinator.com/vote?id=17239469&amp;how=up&amp;auth=57b2b2a5f7779a3747e8aa57ae0d7b02508bd00c&amp;goto=item%3Fid%3D17239259#17239469"><div class="votearrow" title="upvote"></div></a></center></td><td class="default"><div style="margin-top:2px; margin-bottom:-10px;"><span class="comhead">
+          <a href="https://news.ycombinator.com/user?id=ivanfon" class="hnuser">ivanfon</a> <span class="age"><a href="https://news.ycombinator.com/item?id=17239469">1 hour ago</a></span> <span id="unv_17239469"></span><span class="par"></span> <a class="togg" n="9" href="javascript:void(0)" onclick="return toggle(event, 17239469)">[-]</a>          <span class="storyon"></span>
+                  </span></div><br><div class="comment">
+                  <span class="c00">Can anyone explain what’s going on to those who aren’t aware of the situation?<p>Also, the tweets seem to have been deleted, did anyone archive them?<span>
+              </span></p><div class="reply">        <p><font size="1">
+                      <u><a href="https://news.ycombinator.com/reply?id=17239469&amp;goto=item%3Fid%3D17239259%2317239469">reply</a></u>
+                  </font>
+      </p></div></span></div></td></tr>
+      </tbody></table></td></tr>
+        <tr class="athing comtr " id="17239568"><td>
+            <table border="0">  <tbody><tr>    <td class="ind"><img src="CopperheadOS%20is%20undergoing%20a%20company%20takeover%20|%20Hacker%20News_files/s.gif" width="40" height="1"></td><td class="votelinks" valign="top"><center><font color="#ff6600">*</font><br>
+<img src="CopperheadOS%20is%20undergoing%20a%20company%20takeover%20|%20Hacker%20News_files/s.gif" width="14" height="1"></center></td><td class="default"><div style="margin-top:2px; margin-bottom:-10px;"><span class="comhead">
+          <span class="score" id="score_17239568">8 points</span> by <a href="https://news.ycombinator.com/user?id=yegortimoshenko" class="hnuser">yegortimoshenko</a> <span class="age"><a href="https://news.ycombinator.com/item?id=17239568">53 minutes ago</a></span> <span id="unv_17239568"></span><span class="par"></span> | <a href="https://news.ycombinator.com/edit?id=17239568">edit</a> <a class="togg" n="6" href="javascript:void(0)" onclick="return toggle(event, 17239568)">[-]</a>          <span class="storyon"></span>
+                  </span></div><br><div class="comment">
+                  <span class="c00">CEO of the company, James Donaldson,
+ wants to boot off Daniel Micay, CTO of Copperhead and the main 
+developer behind CopperheadOS project. Both have 50% shareholder stake. 
+As of now, Daniel Micay can't use Copperhead branding anymore, and is 
+locked out of his own work (because copyright has been assigned to the 
+company), and can only use CopperheadOS under CC-BY-NC-SA.<span>
+              </span><div class="reply">        <p><font size="1">
+                      <u><a href="https://news.ycombinator.com/reply?id=17239568&amp;goto=item%3Fid%3D17239259%2317239568">reply</a></u>
+                  </font>
+      </p></div></span></div></td></tr>
+      </tbody></table></td></tr>
+        <tr class="athing comtr " id="17239689"><td>
+            <table border="0">  <tbody><tr>    <td class="ind"><img src="CopperheadOS%20is%20undergoing%20a%20company%20takeover%20|%20Hacker%20News_files/s.gif" width="80" height="1"></td><td class="votelinks" valign="top"><center><a id="up_17239689" onclick='return vote(event, this, "up")' href="https://news.ycombinator.com/vote?id=17239689&amp;how=up&amp;auth=eacf17b5c3d493d9147235d4dc7d11b417a3aefd&amp;goto=item%3Fid%3D17239259#17239689"><div class="votearrow" title="upvote"></div></a></center></td><td class="default"><div style="margin-top:2px; margin-bottom:-10px;"><span class="comhead">
+          <a href="https://news.ycombinator.com/user?id=_jayy" class="hnuser">_jayy</a> <span class="age"><a href="https://news.ycombinator.com/item?id=17239689">42 minutes ago</a></span> <span id="unv_17239689"></span><span class="par"></span> <a class="togg" n="5" href="javascript:void(0)" onclick="return toggle(event, 17239689)">[-]</a>          <span class="storyon"></span>
+                  </span></div><br><div class="comment">
+                  <span class="c88">A gross, and rather damaging, over-simplification.<p>Daniel
+ Micay is still a majority shareholder of Copperhead and thus, any 
+damage he does to the company with this leaking (and media coverage) is 
+damaging himself and the Company we've all worked for.<span>
+              </span></p><div class="reply">        <p><font size="1">
+                      <u><a href="https://news.ycombinator.com/reply?id=17239689&amp;goto=item%3Fid%3D17239259%2317239689">reply</a></u>
+                  </font>
+      </p></div></span></div></td></tr>
+      </tbody></table></td></tr>
+        <tr class="athing comtr " id="17239779"><td>
+            <table border="0">  <tbody><tr>    <td class="ind"><img src="CopperheadOS%20is%20undergoing%20a%20company%20takeover%20|%20Hacker%20News_files/s.gif" width="120" height="1"></td><td class="votelinks" valign="top"><center><font color="#ff6600">*</font><br>
+<img src="CopperheadOS%20is%20undergoing%20a%20company%20takeover%20|%20Hacker%20News_files/s.gif" width="14" height="1"></center></td><td class="default"><div style="margin-top:2px; margin-bottom:-10px;"><span class="comhead">
+          <span class="score" id="score_17239779">6 points</span> by <a href="https://news.ycombinator.com/user?id=yegortimoshenko" class="hnuser">yegortimoshenko</a> <span class="age"><a href="https://news.ycombinator.com/item?id=17239779">34 minutes ago</a></span> <span id="unv_17239779"></span><span class="par"></span> | <a href="https://news.ycombinator.com/edit?id=17239779">edit</a> <a class="togg" n="4" href="javascript:void(0)" onclick="return toggle(event, 17239779)">[-]</a>          <span class="storyon"></span>
+                  </span></div><br><div class="comment">
+                  <span class="c00">I'm basing my gross over-simplification off this letter: <a href="https://gitlab.com/yegortimoshenko/copperhead-takeover/blob/master/Copperhead%20Letter%2004-06-18.pdf" rel="nofollow">https://gitlab.com/yegortimoshenko/copperhead-takeover/blob/...</a><p>It
+ says quite clearly that you a) believe copyright belongs to the 
+company, b) want him to give all access to infrastructure, c) revoke his
+ access to Copperhead branding.</p><p>What exactly have I got wrong or over-simplified?<span>
+              </span></p><div class="reply">        <p><font size="1">
+                      <u><a href="https://news.ycombinator.com/reply?id=17239779&amp;goto=item%3Fid%3D17239259%2317239779">reply</a></u>
+                  </font>
+      </p></div></span></div></td></tr>
+      </tbody></table></td></tr>
+        <tr class="athing comtr " id="17240135"><td>
+            <table border="0">  <tbody><tr>    <td class="ind"><img src="CopperheadOS%20is%20undergoing%20a%20company%20takeover%20|%20Hacker%20News_files/s.gif" width="160" height="1"></td><td class="votelinks" valign="top"><center><a id="up_17240135" onclick='return vote(event, this, "up")' href="https://news.ycombinator.com/vote?id=17240135&amp;how=up&amp;auth=8b26abe371d7612182b8f101a377d42c36a467b5&amp;goto=item%3Fid%3D17239259#17240135"><div class="votearrow" title="upvote"></div></a></center></td><td class="default"><div style="margin-top:2px; margin-bottom:-10px;"><span class="comhead">
+          <a href="https://news.ycombinator.com/user?id=AdamM12" class="hnuser">AdamM12</a> <span class="age"><a href="https://news.ycombinator.com/item?id=17240135">4 minutes ago</a></span> <span id="unv_17240135"></span><span class="par"></span> <a class="togg" n="1" href="javascript:void(0)" onclick="return toggle(event, 17240135)">[-]</a>          <span class="storyon"></span>
+                  </span></div><br><div class="comment">
+                  <span class="c00">This is kinda how building business 
+around tech &amp; IP works. The IP (copyright, patents, etc.) is 
+assigned to the company so when they seek investment the investors know 
+what they are getting. That or the IP is licensed which doesn't appear 
+to be the case. The guy assigning the IP still owns it given he is a 50%
+ shareholder. IMO this bike shredding of an issue is more detrimental to
+ the going concern of the project than anything. The guy wrote the 
+majority of the code it would be moronic for him to get booted which is 
+why I highly doubt the other dude is trying to get rid of him and this 
+is a misunderstanding of how this process works.<span>
+              </span><div class="reply">        <p><font size="1">
+                      <u><a href="https://news.ycombinator.com/reply?id=17240135&amp;goto=item%3Fid%3D17239259%2317240135">reply</a></u>
+                  </font>
+      </p></div></span></div></td></tr>
+      </tbody></table></td></tr>
+    <tr class="athing comtr " id="17239880"><td>
+            <table border="0">  <tbody><tr>    <td class="ind"><img src="CopperheadOS%20is%20undergoing%20a%20company%20takeover%20|%20Hacker%20News_files/s.gif" width="160" height="1"></td><td class="votelinks" valign="top"><center><a id="up_17239880" onclick='return vote(event, this, "up")' href="https://news.ycombinator.com/vote?id=17239880&amp;how=up&amp;auth=28d037b1e6fdf6a3bf00e355843839322b58c568&amp;goto=item%3Fid%3D17239259#17239880"><div class="votearrow" title="upvote"></div></a></center></td><td class="default"><div style="margin-top:2px; margin-bottom:-10px;"><span class="comhead">
+          <a href="https://news.ycombinator.com/user?id=handbanana" class="hnuser">handbanana</a> <span class="age"><a href="https://news.ycombinator.com/item?id=17239880">25 minutes ago</a></span> <span id="unv_17239880"></span><span class="par"></span> <a class="togg" n="1" href="javascript:void(0)" onclick="return toggle(event, 17239880)">[-]</a>          <span class="storyon"></span>
+                  </span></div><br><div class="comment">
+                  <span class="c00">It's weird to me. Because on the one
+ hand I can see your point of view, on the other hand - if the CTO of a 
+company is withholding access to things from the CEO that's strange. Is 
+that a recent development, or is that just to prevent the CEO taking 
+control? I don't know.<p>It seems possible one of them is a bad egg. Or 
+perhaps they have just had a very bad falling out. It does appear to be 
+the case that because one guy is a/the coder, everyone is being more 
+sympathetic to him. I haven't chosen a side yet - and I'm still reading 
+through everything.</p><p>Hopefully this gets resolved and after it the bad egg (if one exists) leaves the company.<span>
+              </span></p><div class="reply">        <p><font size="1">
+                      <u><a href="https://news.ycombinator.com/reply?id=17239880&amp;goto=item%3Fid%3D17239259%2317239880">reply</a></u>
+                  </font>
+      </p></div></span></div></td></tr>
+      </tbody></table></td></tr>
+    <tr class="athing comtr " id="17239816"><td>
+            <table border="0">  <tbody><tr>    <td class="ind"><img src="CopperheadOS%20is%20undergoing%20a%20company%20takeover%20|%20Hacker%20News_files/s.gif" width="160" height="1"></td><td class="votelinks" valign="top"><center><a id="up_17239816" onclick='return vote(event, this, "up")' href="https://news.ycombinator.com/vote?id=17239816&amp;how=up&amp;auth=4b4641adfc1ddeb1ac62d1367d20613d78ad8f1c&amp;goto=item%3Fid%3D17239259#17239816"><div class="votearrow" title="upvote"></div></a></center></td><td class="default"><div style="margin-top:2px; margin-bottom:-10px;"><span class="comhead">
+          <a href="https://news.ycombinator.com/user?id=geofft" class="hnuser">geofft</a> <span class="age"><a href="https://news.ycombinator.com/item?id=17239816">30 minutes ago</a></span> <span id="unv_17239816"></span><span class="par"></span> <a class="togg" n="1" href="javascript:void(0)" onclick="return toggle(event, 17239816)">[-]</a>          <span class="storyon"></span>
+                  </span></div><br><div class="comment">
+                  <span class="c00">I don't think "wants to boot" is an 
+accurate conclusion from a, b, and c; someone working in a company (as 
+opposed to someone working on a personal project alone) <i>should</i> assign copyright to the company and share infrastructure / account access with other people in the company.<p>(Also I think it's super weird for you to use HN as a forum to push this dispute.)<span>
+              </span></p><div class="reply">        <p><font size="1">
+                      <u><a href="https://news.ycombinator.com/reply?id=17239816&amp;goto=item%3Fid%3D17239259%2317239816">reply</a></u>
+                  </font>
+      </p></div></span></div></td></tr>
+      </tbody></table></td></tr>
+          <tr class="athing comtr " id="17239550"><td>
+            <table border="0">  <tbody><tr>    <td class="ind"><img src="CopperheadOS%20is%20undergoing%20a%20company%20takeover%20|%20Hacker%20News_files/s.gif" width="40" height="1"></td><td class="votelinks" valign="top"><center><a id="up_17239550" onclick='return vote(event, this, "up")' href="https://news.ycombinator.com/vote?id=17239550&amp;how=up&amp;auth=018a4da467a41ccb3926867238d54cfe8457e9b7&amp;goto=item%3Fid%3D17239259#17239550"><div class="votearrow" title="upvote"></div></a></center></td><td class="default"><div style="margin-top:2px; margin-bottom:-10px;"><span class="comhead">
+          <a href="https://news.ycombinator.com/user?id=ihuman" class="hnuser">ihuman</a> <span class="age"><a href="https://news.ycombinator.com/item?id=17239550">55 minutes ago</a></span> <span id="unv_17239550"></span><span class="par"></span> <a class="togg" n="1" href="javascript:void(0)" onclick="return toggle(event, 17239550)">[-]</a>          <span class="storyon"></span>
+                  </span></div><br><div class="comment">
+                  <span class="c00">I think those are the archives of the tweets.<p>Also,
+ I think @CopperheadOS changed their twitter ID to @DanielMicay. If you 
+go to Google's cache of @CopperheadOS [1] and click on the date next to 
+one of the tweets (example [2]), it redirects to the live version of the
+ tweet under @DanielMicay.</p><p>[1] <a href="https://webcache.googleusercontent.com/search?q=cache:bgK8U669OHoJ:https://twitter.com/copperheados%3Flang%3Den+&amp;cd=5&amp;hl=en&amp;ct=clnk&amp;gl=us" rel="nofollow">https://webcache.googleusercontent.com/search?q=cache:bgK8U6...</a></p><p>[2] May 22 <a href="https://twitter.com/CopperheadOS/status/998953746833944576" rel="nofollow">https://twitter.com/CopperheadOS/status/998953746833944576</a>
+&gt; This account covers the technical side of CopperheadOS.
+&gt;Please send all questions about sales to sales@copperhead.co.
+&gt;The customer support system should be used for official support or the subreddit (<a href="https://www.reddit.com/r/CopperheadOS/" rel="nofollow">https://www.reddit.com/r/CopperheadOS/</a> ) for community support.
+&gt; Can't help with either here."<span>
+              </span></p><div class="reply">        <p><font size="1">
+                      <u><a href="https://news.ycombinator.com/reply?id=17239550&amp;goto=item%3Fid%3D17239259%2317239550">reply</a></u>
+                  </font>
+      </p></div></span></div></td></tr>
+      </tbody></table></td></tr>
+    <tr class="athing comtr " id="17239520"><td>
+            <table border="0">  <tbody><tr>    <td class="ind"><img src="CopperheadOS%20is%20undergoing%20a%20company%20takeover%20|%20Hacker%20News_files/s.gif" width="40" height="1"></td><td class="votelinks" valign="top"><center><font color="#ff6600">*</font><br>
+<img src="CopperheadOS%20is%20undergoing%20a%20company%20takeover%20|%20Hacker%20News_files/s.gif" width="14" height="1"></center></td><td class="default"><div style="margin-top:2px; margin-bottom:-10px;"><span class="comhead">
+          <span class="score" id="score_17239520">1 point</span> by <a href="https://news.ycombinator.com/user?id=yegortimoshenko" class="hnuser">yegortimoshenko</a> <span class="age"><a href="https://news.ycombinator.com/item?id=17239520">58 minutes ago</a></span> <span id="unv_17239520"></span><span class="par"></span> | <a href="https://news.ycombinator.com/edit?id=17239520">edit</a> | <a href="https://news.ycombinator.com/delete-confirm?id=17239520&amp;goto=item%3Fid%3D17239259">delete</a> <a class="togg" n="1" href="javascript:void(0)" onclick="return toggle(event, 17239520)">[-]</a>          <span class="storyon"></span>
+                  </span></div><br><div class="comment">
+                  <span class="c00">I couldn't find archived links, but there are a few mentions: <a href="https://www.google.com/search?q=%22Copperhead+as+a+company+doesn%27t+share+the+goals+and+vision+of+this+project+and%22" rel="nofollow">https://www.google.com/search?q="Copperhead+as+a+company+doe...</a><span>
+              </span><div class="reply">        <p><font size="1">
+                      <u><a href="https://news.ycombinator.com/reply?id=17239520&amp;goto=item%3Fid%3D17239259%2317239520">reply</a></u>
+                  </font>
+      </p></div></span></div></td></tr>
+      </tbody></table></td></tr>
+                <tr class="athing comtr " id="17239674"><td>
+            <table border="0">  <tbody><tr>    <td class="ind"><img src="CopperheadOS%20is%20undergoing%20a%20company%20takeover%20|%20Hacker%20News_files/s.gif" width="0" height="1"></td><td class="votelinks" valign="top"><center><a id="up_17239674" onclick='return vote(event, this, "up")' href="https://news.ycombinator.com/vote?id=17239674&amp;how=up&amp;auth=596f62d4fd7f40b9d3df9f6cf42192c12b7db50f&amp;goto=item%3Fid%3D17239259#17239674"><div class="votearrow" title="upvote"></div></a></center></td><td class="default"><div style="margin-top:2px; margin-bottom:-10px;"><span class="comhead">
+          <a href="https://news.ycombinator.com/user?id=scarejunba" class="hnuser"><font color="#3c963c">scarejunba</font></a> <span class="age"><a href="https://news.ycombinator.com/item?id=17239674">43 minutes ago</a></span> <span id="unv_17239674"></span><span class="par"></span> <a class="togg" n="1" href="javascript:void(0)" onclick="return toggle(event, 17239674)">[-]</a>          <span class="storyon"></span>
+                  </span></div><br><div class="comment">
+                  <span class="c00">Never going to touch this shit. 
+So-called secure and private but at least one of the founders is 
+untrustworthy (since each is essentially calling the other out, at least
+ one of them is in the wrong).<span>
+              </span><div class="reply">        <p><font size="1">
+                      <u><a href="https://news.ycombinator.com/reply?id=17239674&amp;goto=item%3Fid%3D17239259%2317239674">reply</a></u>
+                  </font>
+      </p></div></span></div></td></tr>
+      </tbody></table></td></tr>
+              <tr class="athing comtr " id="17239746"><td>
+            <table border="0">  <tbody><tr>    <td class="ind"><img src="CopperheadOS%20is%20undergoing%20a%20company%20takeover%20|%20Hacker%20News_files/s.gif" width="0" height="1"></td><td class="votelinks" valign="top"><center><a id="up_17239746" onclick='return vote(event, this, "up")' href="https://news.ycombinator.com/vote?id=17239746&amp;how=up&amp;auth=5ce0202b5dbe5ba449a62c0f23012be4b3951033&amp;goto=item%3Fid%3D17239259#17239746"><div class="votearrow" title="upvote"></div></a></center></td><td class="default"><div style="margin-top:2px; margin-bottom:-10px;"><span class="comhead">
+          <a href="https://news.ycombinator.com/user?id=xstartup" class="hnuser">xstartup</a> <span class="age"><a href="https://news.ycombinator.com/item?id=17239746">37 minutes ago</a></span> <span id="unv_17239746"></span><span class="par"></span> <a class="togg" n="2" href="javascript:void(0)" onclick="return toggle(event, 17239746)">[-]</a>          <span class="storyon"></span>
+                  </span></div><br><div class="comment">
+                  <span class="c00">This is why after incorporation, you
+ should transfer the rights to all code, trademark and other 
+Intellectual Property to the company to prevent the situations like 
+this.<p>These conflicts should be resolved by the board.<span>
+              </span></p><div class="reply">        <p><font size="1">
+                      <u><a href="https://news.ycombinator.com/reply?id=17239746&amp;goto=item%3Fid%3D17239259%2317239746">reply</a></u>
+                  </font>
+      </p></div></span></div></td></tr>
+      </tbody></table></td></tr>
+        <tr class="athing comtr " id="17239791"><td>
+            <table border="0">  <tbody><tr>    <td class="ind"><img src="CopperheadOS%20is%20undergoing%20a%20company%20takeover%20|%20Hacker%20News_files/s.gif" width="40" height="1"></td><td class="votelinks" valign="top"><center><a id="up_17239791" onclick='return vote(event, this, "up")' href="https://news.ycombinator.com/vote?id=17239791&amp;how=up&amp;auth=d3683de39f59005ed91f4a92dd70072d8119a9f8&amp;goto=item%3Fid%3D17239259#17239791"><div class="votearrow" title="upvote"></div></a></center></td><td class="default"><div style="margin-top:2px; margin-bottom:-10px;"><span class="comhead">
+          <a href="https://news.ycombinator.com/user?id=_jayy" class="hnuser">_jayy</a> <span class="age"><a href="https://news.ycombinator.com/item?id=17239791">33 minutes ago</a></span> <span id="unv_17239791"></span><span class="par"></span> <a class="togg" n="1" href="javascript:void(0)" onclick="return toggle(event, 17239791)">[-]</a>          <span class="storyon"></span>
+                  </span></div><br><div class="comment">
+                  <span class="c00">You're 100% correct. :(<p>Lesson learned - we started Copperhead as privacy advocates and hackers, not MBA infused business developers.<span>
+              </span></p><div class="reply">        <p><font size="1">
+                      <u><a href="https://news.ycombinator.com/reply?id=17239791&amp;goto=item%3Fid%3D17239259%2317239791">reply</a></u>
+                  </font>
+      </p></div></span></div></td></tr>
+      </tbody></table></td></tr>
+                <tr class="athing comtr " id="17239438"><td>
+            <table border="0">  <tbody><tr>    <td class="ind"><img src="CopperheadOS%20is%20undergoing%20a%20company%20takeover%20|%20Hacker%20News_files/s.gif" width="0" height="1"></td><td class="votelinks" valign="top"><center><a id="up_17239438" onclick='return vote(event, this, "up")' href="https://news.ycombinator.com/vote?id=17239438&amp;how=up&amp;auth=22feac1a80c8d0b2364025333da46843fef93eb1&amp;goto=item%3Fid%3D17239259#17239438"><div class="votearrow" title="upvote"></div></a></center></td><td class="default"><div style="margin-top:2px; margin-bottom:-10px;"><span class="comhead">
+          <a href="https://news.ycombinator.com/user?id=andrew_" class="hnuser">andrew_</a> <span class="age"><a href="https://news.ycombinator.com/item?id=17239438">1 hour ago</a></span> <span id="unv_17239438"></span><span class="par"></span> <a class="togg" n="1" href="javascript:void(0)" onclick="return toggle(event, 17239438)">[-]</a>          <span class="storyon"></span>
+                  </span></div><br><div class="comment">
+                  <span class="c00">Curious if anyone managed to 
+screenshot or archive the tweets, as the entire account has been removed
+ from twitter it would seem. Always interested in these kinds of 
+stories/drama as case studies for what to look out for in future 
+endeavors.<span>
+              </span><div class="reply">        <p><font size="1">
+                      <u><a href="https://news.ycombinator.com/reply?id=17239438&amp;goto=item%3Fid%3D17239259%2317239438">reply</a></u>
+                  </font>
+      </p></div></span></div></td></tr>
+      </tbody></table></td></tr>
+              <tr class="athing comtr " id="17239679"><td>
+            <table border="0">  <tbody><tr>    <td class="ind"><img src="CopperheadOS%20is%20undergoing%20a%20company%20takeover%20|%20Hacker%20News_files/s.gif" width="0" height="1"></td><td class="votelinks" valign="top"><center><a id="up_17239679" onclick='return vote(event, this, "up")' href="https://news.ycombinator.com/vote?id=17239679&amp;how=up&amp;auth=abf5c4f2aca662d740f572cccb81f6e4599e1308&amp;goto=item%3Fid%3D17239259#17239679"><div class="votearrow" title="upvote"></div></a></center></td><td class="default"><div style="margin-top:2px; margin-bottom:-10px;"><span class="comhead">
+          <a href="https://news.ycombinator.com/user?id=_jayy" class="hnuser">_jayy</a> <span class="age"><a href="https://news.ycombinator.com/item?id=17239679">43 minutes ago</a></span> <span id="unv_17239679"></span><span class="par"></span> <a class="togg" n="19" href="javascript:void(0)" onclick="return toggle(event, 17239679)">[-]</a>          <span class="storyon"></span>
+                  </span></div><br><div class="comment">
+                  <span class="c00">note: I'm James Donaldson, the CEO of Copperhead.<p>We're
+ hoping there is a peaceful resolution to this. It's VERY unfortunate 
+that Daniel Micay is airing dirty laundry - internal confidential 
+documents that are directed towards him (ironically, from a @gmail.com 
+account,as he refuses to answer from his @copperhead.co address now). 
+ESPECIALLY from a company asset (@copperheadOS) that is damaging to 
+Copperhead the company, our users and our employees.</p><p>As it currently stands, Daniel Micay has been and still is a majority shareholder of Copperhead.</p><p>I'm interested and open to discussions regarding these issues. Feel free to email me - james.donaldson@copperhead.co</p><p>note:
+ I've been advised that getting involved can only unfortunately only 
+further complicate things. Feel free to reach out to me with questions.</p><p>Thanks for the feedback everyone.<span>
+              </span></p><div class="reply">        <p><font size="1">
+                      <u><a href="https://news.ycombinator.com/reply?id=17239679&amp;goto=item%3Fid%3D17239259%2317239679">reply</a></u>
+                  </font>
+      </p></div></span></div></td></tr>
+      </tbody></table></td></tr>
+        <tr class="athing comtr " id="17239715"><td>
+            <table border="0">  <tbody><tr>    <td class="ind"><img src="CopperheadOS%20is%20undergoing%20a%20company%20takeover%20|%20Hacker%20News_files/s.gif" width="40" height="1"></td><td class="votelinks" valign="top"><center><font color="#ff6600">*</font><br>
+<img src="CopperheadOS%20is%20undergoing%20a%20company%20takeover%20|%20Hacker%20News_files/s.gif" width="14" height="1"></center></td><td class="default"><div style="margin-top:2px; margin-bottom:-10px;"><span class="comhead">
+          <span class="score" id="score_17239715">7 points</span> by <a href="https://news.ycombinator.com/user?id=yegortimoshenko" class="hnuser">yegortimoshenko</a> <span class="age"><a href="https://news.ycombinator.com/item?id=17239715">40 minutes ago</a></span> <span id="unv_17239715"></span><span class="par"></span> | <a href="https://news.ycombinator.com/edit?id=17239715">edit</a> <a class="togg" n="11" href="javascript:void(0)" onclick="return toggle(event, 17239715)">[-]</a>          <span class="storyon"></span>
+                  </span></div><br><div class="comment">
+                  <span class="c00">Daniel Micay is literally the guy 
+behind Copperhead. He is the author of overwhelming majority of commits 
+to CopperheadOS repos and almost single-handedly maintains hardened 
+Linux kernel. Quite literally: open any repo in <a href="https://github.com/Copperhead" rel="nofollow">https://github.com/Copperhead</a> or <a href="https://github.com/CopperheadOS" rel="nofollow">https://github.com/CopperheadOS</a> and look how much thestinger (Daniel Micay) has been working on all of this.<p>What you're doing is despicable and unfair. Please resign.<span>
+              </span></p><div class="reply">        <p><font size="1">
+                      <u><a href="https://news.ycombinator.com/reply?id=17239715&amp;goto=item%3Fid%3D17239259%2317239715">reply</a></u>
+                  </font>
+      </p></div></span></div></td></tr>
+      </tbody></table></td></tr>
+        <tr class="athing comtr " id="17239756"><td>
+            <table border="0">  <tbody><tr>    <td class="ind"><img src="CopperheadOS%20is%20undergoing%20a%20company%20takeover%20|%20Hacker%20News_files/s.gif" width="80" height="1"></td><td class="votelinks" valign="top"><center><a id="up_17239756" onclick='return vote(event, this, "up")' href="https://news.ycombinator.com/vote?id=17239756&amp;how=up&amp;auth=d8353b80d4c1a268ca44ff030bdd2a78c69297d5&amp;goto=item%3Fid%3D17239259#17239756"><div class="votearrow" title="upvote"></div></a></center></td><td class="default"><div style="margin-top:2px; margin-bottom:-10px;"><span class="comhead">
+          <a href="https://news.ycombinator.com/user?id=_jayy" class="hnuser">_jayy</a> <span class="age"><a href="https://news.ycombinator.com/item?id=17239756">36 minutes ago</a></span> <span id="unv_17239756"></span><span class="par"></span> <a class="togg" n="10" href="javascript:void(0)" onclick="return toggle(event, 17239756)">[-]</a>          <span class="storyon"></span>
+                  </span></div><br><div class="comment">
+                  <span class="c5a">[deleted]<span>
+              </span><div class="reply">        <p><font size="1">
+                      <u><a href="https://news.ycombinator.com/reply?id=17239756&amp;goto=item%3Fid%3D17239259%2317239756">reply</a></u>
+                  </font>
+      </p></div></span></div></td></tr>
+      </tbody></table></td></tr>
+        <tr class="athing comtr " id="17239822"><td>
+            <table border="0">  <tbody><tr>    <td class="ind"><img src="CopperheadOS%20is%20undergoing%20a%20company%20takeover%20|%20Hacker%20News_files/s.gif" width="120" height="1"></td><td class="votelinks" valign="top"><center><a id="up_17239822" onclick='return vote(event, this, "up")' href="https://news.ycombinator.com/vote?id=17239822&amp;how=up&amp;auth=74e0274639ec20b9b9bc3262afa5bca7b583fa4c&amp;goto=item%3Fid%3D17239259#17239822" class="nosee"><div class="votearrow" title="upvote"></div></a></center></td><td class="default"><div style="margin-top:2px; margin-bottom:-10px;"><span class="comhead">
+          <a href="https://news.ycombinator.com/user?id=sam0x17" class="hnuser">sam0x17</a> <span class="age"><a href="https://news.ycombinator.com/item?id=17239822">30 minutes ago</a></span> <span id="unv_17239822"> | <a id="un_17239822" onclick='return vote(event, this, "un")' href="https://news.ycombinator.com/vote?id=17239822&amp;how=un&amp;auth=74e0274639ec20b9b9bc3262afa5bca7b583fa4c&amp;goto=item%3Fid%3D17239259#17239822">unvote</a></span><span class="par"></span> <a class="togg" n="8" href="javascript:void(0)" onclick="return toggle(event, 17239822)">[-]</a>          <span class="storyon"></span>
+                  </span></div><br><div class="comment">
+                  <span class="c00">How many commits do you have? If the
+ answer is 0, whatever you've been doing was probably not as productive 
+or useful as anything your partner has been doing for years. If the guy 
+who has written 90% of the code ghosts his CEO co-founder, my bet is 
+it's the CEO being useless and not the CTO and I trust his word way more
+ than yours. Regardless of how the CTO has handled this, you are clearly
+ in the wrong somehow.<span>
+              </span><div class="reply">        <p><font size="1">
+                      <u><a href="https://news.ycombinator.com/reply?id=17239822&amp;goto=item%3Fid%3D17239259%2317239822">reply</a></u>
+                  </font>
+      </p></div></span></div></td></tr>
+      </tbody></table></td></tr>
+        <tr class="athing comtr " id="17239887"><td>
+            <table border="0">  <tbody><tr>    <td class="ind"><img src="CopperheadOS%20is%20undergoing%20a%20company%20takeover%20|%20Hacker%20News_files/s.gif" width="160" height="1"></td><td class="votelinks" valign="top"><center><a id="up_17239887" onclick='return vote(event, this, "up")' href="https://news.ycombinator.com/vote?id=17239887&amp;how=up&amp;auth=1800d10e07175df8b22b67d56b06991d88536aca&amp;goto=item%3Fid%3D17239259#17239887"><div class="votearrow" title="upvote"></div></a></center></td><td class="default"><div style="margin-top:2px; margin-bottom:-10px;"><span class="comhead">
+          <a href="https://news.ycombinator.com/user?id=geofft" class="hnuser">geofft</a> <span class="age"><a href="https://news.ycombinator.com/item?id=17239887">24 minutes ago</a></span> <span id="unv_17239887"></span><span class="par"></span> <a class="togg" n="7" href="javascript:void(0)" onclick="return toggle(event, 17239887)">[-]</a>          <span class="storyon"></span>
+                  </span></div><br><div class="comment">
+                  <span class="c00">&gt; <i>How many commits do you 
+have? If the answer is 0, whatever you've been doing was probably not as
+ productive or useful as anything your partner has been doing for years.</i><p>Tell me, does your employer's CEO have as many commits in the codebase as you do?</p><p>If not, why are you working for this CEO instead of for yourself?<span>
+              </span></p><div class="reply">        <p><font size="1">
+                      <u><a href="https://news.ycombinator.com/reply?id=17239887&amp;goto=item%3Fid%3D17239259%2317239887">reply</a></u>
+                  </font>
+      </p></div></span></div></td></tr>
+      </tbody></table></td></tr>
+        <tr class="athing comtr " id="17240032"><td>
+            <table border="0">  <tbody><tr>    <td class="ind"><img src="CopperheadOS%20is%20undergoing%20a%20company%20takeover%20|%20Hacker%20News_files/s.gif" width="200" height="1"></td><td class="votelinks" valign="top"><center><a id="up_17240032" onclick='return vote(event, this, "up")' href="https://news.ycombinator.com/vote?id=17240032&amp;how=up&amp;auth=5e3c8188676df8e0eaaeb0ecb227bd4ef3e80d82&amp;goto=item%3Fid%3D17239259#17240032"><div class="votearrow" title="upvote"></div></a></center></td><td class="default"><div style="margin-top:2px; margin-bottom:-10px;"><span class="comhead">
+          <a href="https://news.ycombinator.com/user?id=sam0x17" class="hnuser">sam0x17</a> <span class="age"><a href="https://news.ycombinator.com/item?id=17240032">13 minutes ago</a></span> <span id="unv_17240032"></span><span class="par"></span> <a class="togg" n="2" href="javascript:void(0)" onclick="return toggle(event, 17240032)">[-]</a>          <span class="storyon"></span>
+                  </span></div><br><div class="comment">
+                  <span class="c00">edit: yes, in our case the CEO 
+actually got his hands dirty when he had his idea and wrote a huge 
+amount of code with no prior experience until the company had enough 
+momentum to hire developers. A lot less than you would ever do clearly, 
+based on your responses.<span>
+              </span><div class="reply">        <p><font size="1">
+                      <u><a href="https://news.ycombinator.com/reply?id=17240032&amp;goto=item%3Fid%3D17239259%2317240032">reply</a></u>
+                  </font>
+      </p></div></span></div></td></tr>
+      </tbody></table></td></tr>
+        <tr class="athing comtr " id="17240061"><td>
+            <table border="0">  <tbody><tr>    <td class="ind"><img src="CopperheadOS%20is%20undergoing%20a%20company%20takeover%20|%20Hacker%20News_files/s.gif" width="240" height="1"></td><td class="votelinks" valign="top"><center><a id="up_17240061" onclick='return vote(event, this, "up")' href="https://news.ycombinator.com/vote?id=17240061&amp;how=up&amp;auth=ffe3e131362d14a289374f211e0603572114493d&amp;goto=item%3Fid%3D17239259#17240061"><div class="votearrow" title="upvote"></div></a></center></td><td class="default"><div style="margin-top:2px; margin-bottom:-10px;"><span class="comhead">
+          <a href="https://news.ycombinator.com/user?id=geofft" class="hnuser">geofft</a> <span class="age"><a href="https://news.ycombinator.com/item?id=17240061">11 minutes ago</a></span> <span id="unv_17240061"></span><span class="par"></span> <a class="togg" n="1" href="javascript:void(0)" onclick="return toggle(event, 17240061)">[-]</a>          <span class="storyon"></span>
+                  </span></div><br><div class="comment">
+                  <span class="c00">Look at who you're replying to. I'm 
+not the CEO. I'm not affiliated with Copperhead at all. I'm a random 
+systems programmer who actually knows the subject area.<span>
+              </span><div class="reply">        <p><font size="1">
+                      <u><a href="https://news.ycombinator.com/reply?id=17240061&amp;goto=item%3Fid%3D17239259%2317240061">reply</a></u>
+                  </font>
+      </p></div></span></div></td></tr>
+      </tbody></table></td></tr>
+      <tr class="athing comtr " id="17239981"><td>
+            <table border="0">  <tbody><tr>    <td class="ind"><img src="CopperheadOS%20is%20undergoing%20a%20company%20takeover%20|%20Hacker%20News_files/s.gif" width="200" height="1"></td><td class="votelinks" valign="top"><center><a id="up_17239981" onclick='return vote(event, this, "up")' href="https://news.ycombinator.com/vote?id=17239981&amp;how=up&amp;auth=a2abe16d4b0a0bc57cd84249cc64e72ffc73c14a&amp;goto=item%3Fid%3D17239259#17239981"><div class="votearrow" title="upvote"></div></a></center></td><td class="default"><div style="margin-top:2px; margin-bottom:-10px;"><span class="comhead">
+          <a href="https://news.ycombinator.com/user?id=_jayy" class="hnuser">_jayy</a> <span class="age"><a href="https://news.ycombinator.com/item?id=17239981">17 minutes ago</a></span> <span id="unv_17239981"></span><span class="par"></span> <a class="togg" n="4" href="javascript:void(0)" onclick="return toggle(event, 17239981)">[-]</a>          <span class="storyon"></span>
+                  </span></div><br><div class="comment">
+                  <span class="c00">[deleted]<span>
+              </span><div class="reply">        <p><font size="1">
+                      <u><a href="https://news.ycombinator.com/reply?id=17239981&amp;goto=item%3Fid%3D17239259%2317239981">reply</a></u>
+                  </font>
+      </p></div></span></div></td></tr>
+      </tbody></table></td></tr>
+        <tr class="athing comtr " id="17240038"><td>
+            <table border="0">  <tbody><tr>    <td class="ind"><img src="CopperheadOS%20is%20undergoing%20a%20company%20takeover%20|%20Hacker%20News_files/s.gif" width="240" height="1"></td><td class="votelinks" valign="top"><center><a id="up_17240038" onclick='return vote(event, this, "up")' href="https://news.ycombinator.com/vote?id=17240038&amp;how=up&amp;auth=5048b44039ffa11ecec42810582a124741b1c2a5&amp;goto=item%3Fid%3D17239259#17240038"><div class="votearrow" title="upvote"></div></a></center></td><td class="default"><div style="margin-top:2px; margin-bottom:-10px;"><span class="comhead">
+          <a href="https://news.ycombinator.com/user?id=geofft" class="hnuser">geofft</a> <span class="age"><a href="https://news.ycombinator.com/item?id=17240038">13 minutes ago</a></span> <span id="unv_17240038"></span><span class="par"></span> <a class="togg" n="2" href="javascript:void(0)" onclick="return toggle(event, 17240038)">[-]</a>          <span class="storyon"></span>
+                  </span></div><br><div class="comment">
+                  <span class="c00">Exactly! (FWIW, I don't think 
+fighting this in the court of public opinion, district of Hacker News is
+ worth your time. The venue is prejudiced to believing that systems 
+programming is a rare skill and we must all bow down to people who can 
+do it, which is certainly not my experience as an actual systems 
+programmer.)<span>
+              </span><div class="reply">        <p><font size="1">
+                      <u><a href="https://news.ycombinator.com/reply?id=17240038&amp;goto=item%3Fid%3D17239259%2317240038">reply</a></u>
+                  </font>
+      </p></div></span></div></td></tr>
+      </tbody></table></td></tr>
+        <tr class="athing comtr " id="17240150"><td>
+            <table border="0">  <tbody><tr>    <td class="ind"><img src="CopperheadOS%20is%20undergoing%20a%20company%20takeover%20|%20Hacker%20News_files/s.gif" width="280" height="1"></td><td class="votelinks" valign="top"><center><a id="up_17240150" onclick='return vote(event, this, "up")' href="https://news.ycombinator.com/vote?id=17240150&amp;how=up&amp;auth=51d63654c4e744edebefd2dd3909035b49ea81c8&amp;goto=item%3Fid%3D17239259#17240150"><div class="votearrow" title="upvote"></div></a></center></td><td class="default"><div style="margin-top:2px; margin-bottom:-10px;"><span class="comhead">
+          <a href="https://news.ycombinator.com/user?id=sam0x17" class="hnuser">sam0x17</a> <span class="age"><a href="https://news.ycombinator.com/item?id=17240150">4 minutes ago</a></span> <span id="unv_17240150"></span><span class="par"></span> <a class="togg" n="1" href="javascript:void(0)" onclick="return toggle(event, 17240150)">[-]</a>          <span class="storyon"></span>
+                  </span></div><br><div class="comment">
+                  <span class="c00">If you think so little of yourself, 
+why should we listen to you? I'm not saying we should all bow down to 
+systems programming, I just think "CEO" is a role that doesn't need to 
+exist for a company like this. You could probably roll up most of the 
+daily duties of said CEO and have them carried out by an intern-level 
+sales guy. Technical people should be setting the direction of technical
+ projects. When they don't have the skillset, they should delegate. 
+There is no need for this amorphous "CEO" person who has tons of power 
+but no skills to back it up. The exception is if they came up with the 
+idea, and helped execute it from the beginning.<span>
+              </span><div class="reply">        <p><font size="1">
+                  </font>
+      </p></div></span></div></td></tr>
+      </tbody></table></td></tr>
+      <tr class="athing comtr " id="17240071"><td>
+            <table border="0">  <tbody><tr>    <td class="ind"><img src="CopperheadOS%20is%20undergoing%20a%20company%20takeover%20|%20Hacker%20News_files/s.gif" width="240" height="1"></td><td class="votelinks" valign="top"><center><a id="up_17240071" onclick='return vote(event, this, "up")' href="https://news.ycombinator.com/vote?id=17240071&amp;how=up&amp;auth=958e6ab0c633659d5f47cc4abb3b3c4bb28ac45d&amp;goto=item%3Fid%3D17239259#17240071"><div class="votearrow" title="upvote"></div></a></center></td><td class="default"><div style="margin-top:2px; margin-bottom:-10px;"><span class="comhead">
+          <a href="https://news.ycombinator.com/user?id=sam0x17" class="hnuser">sam0x17</a> <span class="age"><a href="https://news.ycombinator.com/item?id=17240071">11 minutes ago</a></span> <span id="unv_17240071"></span><span class="par"></span> <a class="togg" n="1" href="javascript:void(0)" onclick="return toggle(event, 17240071)">[-]</a>          <span class="storyon"></span>
+                  </span></div><br><div class="comment">
+                  <span class="c00">Very good ones do, or at least could if they wanted to<span>
+              </span><div class="reply">        <p><font size="1">
+                      <u><a href="https://news.ycombinator.com/reply?id=17240071&amp;goto=item%3Fid%3D17239259%2317240071">reply</a></u>
+                  </font>
+      </p></div></span></div></td></tr>
+      </tbody></table></td></tr>
+          <tr class="athing comtr " id="17239826"><td>
+            <table border="0">  <tbody><tr>    <td class="ind"><img src="CopperheadOS%20is%20undergoing%20a%20company%20takeover%20|%20Hacker%20News_files/s.gif" width="120" height="1"></td><td class="votelinks" valign="top"><center><font color="#ff6600">*</font><br>
+<img src="CopperheadOS%20is%20undergoing%20a%20company%20takeover%20|%20Hacker%20News_files/s.gif" width="14" height="1"></center></td><td class="default"><div style="margin-top:2px; margin-bottom:-10px;"><span class="comhead">
+          <span class="score" id="score_17239826">2 points</span> by <a href="https://news.ycombinator.com/user?id=yegortimoshenko" class="hnuser">yegortimoshenko</a> <span class="age"><a href="https://news.ycombinator.com/item?id=17239826">30 minutes ago</a></span> <span id="unv_17239826"></span><span class="par"></span> | <a href="https://news.ycombinator.com/edit?id=17239826">edit</a> | <a href="https://news.ycombinator.com/delete-confirm?id=17239826&amp;goto=item%3Fid%3D17239259">delete</a> <a class="togg" n="1" href="javascript:void(0)" onclick="return toggle(event, 17239826)">[-]</a>          <span class="storyon"></span>
+                  </span></div><br><div class="comment">
+                  <span class="c00">Sales is means, not a goal in and of
+ itself. What you're suggesting is a broken economic model that doesn't 
+honor people that add to the world (i.e. authors).<span>
+              </span><div class="reply">        <p><font size="1">
+                      <u><a href="https://news.ycombinator.com/reply?id=17239826&amp;goto=item%3Fid%3D17239259%2317239826">reply</a></u>
+                  </font>
+      </p></div></span></div></td></tr>
+      </tbody></table></td></tr>
+        <tr class="athing comtr " id="17239888"><td>
+            <table border="0">  <tbody><tr>    <td class="ind"><img src="CopperheadOS%20is%20undergoing%20a%20company%20takeover%20|%20Hacker%20News_files/s.gif" width="40" height="1"></td><td class="votelinks" valign="top"><center><a id="up_17239888" onclick='return vote(event, this, "up")' href="https://news.ycombinator.com/vote?id=17239888&amp;how=up&amp;auth=5d0f60b0016de2f9e7394d379961434b4a433de9&amp;goto=item%3Fid%3D17239259#17239888"><div class="votearrow" title="upvote"></div></a></center></td><td class="default"><div style="margin-top:2px; margin-bottom:-10px;"><span class="comhead">
+          <a href="https://news.ycombinator.com/user?id=sam0x17" class="hnuser">sam0x17</a> <span class="age"><a href="https://news.ycombinator.com/item?id=17239888">24 minutes ago</a></span> <span id="unv_17239888"></span><span class="par"></span> <a class="togg" n="1" href="javascript:void(0)" onclick="return toggle(event, 17239888)">[-]</a>          <span class="storyon"></span>
+                  </span></div><br><div class="comment">
+                  <span class="c00">This shouldn't even be a profitable company -- it should be a non-profit open source project.<span>
+              </span><div class="reply">        <p><font size="1">
+                      <u><a href="https://news.ycombinator.com/reply?id=17239888&amp;goto=item%3Fid%3D17239259%2317239888">reply</a></u>
+                  </font>
+      </p></div></span></div></td></tr>
+      </tbody></table></td></tr>
+    <tr class="athing comtr " id="17239788"><td>
+            <table border="0">  <tbody><tr>    <td class="ind"><img src="CopperheadOS%20is%20undergoing%20a%20company%20takeover%20|%20Hacker%20News_files/s.gif" width="40" height="1"></td><td class="votelinks" valign="top"><center><a id="up_17239788" onclick='return vote(event, this, "up")' href="https://news.ycombinator.com/vote?id=17239788&amp;how=up&amp;auth=1c7ccf3960ffb98f320555474183eb1f12083b86&amp;goto=item%3Fid%3D17239259#17239788"><div class="votearrow" title="upvote"></div></a></center></td><td class="default"><div style="margin-top:2px; margin-bottom:-10px;"><span class="comhead">
+          <a href="https://news.ycombinator.com/user?id=geofft" class="hnuser">geofft</a> <span class="age"><a href="https://news.ycombinator.com/item?id=17239788">34 minutes ago</a></span> <span id="unv_17239788"></span><span class="par"></span> <a class="togg" n="2" href="javascript:void(0)" onclick="return toggle(event, 17239788)">[-]</a>          <span class="storyon"></span>
+                  </span></div><br><div class="comment">
+                  <span class="c00">Out of curiosity, are you familiar 
+with strcat's previous involvement and later dis-involvement in the Rust
+ community? (slash, were you, when you started working with him?)<p>It's
+ not my story to tell at all, as someone who's not a Rust core 
+contributor or anything (and certainly wasn't at the time), but <a href="http://slash-r-slash-rust.github.io/archived/2u1dme.html" rel="nofollow">http://slash-r-slash-rust.github.io/archived/2u1dme.html</a>
+ is part of it. (IIRC the /r/rust mods archived that thread on GitHub as
+ a compromise between deleting something from Reddit and leaving 
+something Googleable with his name.) There was a lot of dirty laundry in
+ public and my impression is that neither he nor the Rust core 
+maintainers left that situation happy.<span>
+              </span></p><div class="reply">        <p><font size="1">
+                      <u><a href="https://news.ycombinator.com/reply?id=17239788&amp;goto=item%3Fid%3D17239259%2317239788">reply</a></u>
+                  </font>
+      </p></div></span></div></td></tr>
+      </tbody></table></td></tr>
+        <tr class="athing comtr " id="17239943"><td>
+            <table border="0">  <tbody><tr>    <td class="ind"><img src="CopperheadOS%20is%20undergoing%20a%20company%20takeover%20|%20Hacker%20News_files/s.gif" width="80" height="1"></td><td class="votelinks" valign="top"><center><a id="up_17239943" onclick='return vote(event, this, "up")' href="https://news.ycombinator.com/vote?id=17239943&amp;how=up&amp;auth=9ae0a709220406fae17a18713e33dd0d3f43a745&amp;goto=item%3Fid%3D17239259#17239943"><div class="votearrow" title="upvote"></div></a></center></td><td class="default"><div style="margin-top:2px; margin-bottom:-10px;"><span class="comhead">
+          <a href="https://news.ycombinator.com/user?id=_jayy" class="hnuser">_jayy</a> <span class="age"><a href="https://news.ycombinator.com/item?id=17239943">20 minutes ago</a></span> <span id="unv_17239943"></span><span class="par"></span> <a class="togg" n="1" href="javascript:void(0)" onclick="return toggle(event, 17239943)">[-]</a>          <span class="storyon"></span>
+                  </span></div><br><div class="comment">
+                  <span class="c00">Yes, amongst other involvements.<p>I'm
+ all about benefit of the doubt. It's obviously biting us in the butt 
+right now, but again - I'm hoping for a peaceful resolution.<span>
+              </span></p><div class="reply">        <p><font size="1">
+                      <u><a href="https://news.ycombinator.com/reply?id=17239943&amp;goto=item%3Fid%3D17239259%2317239943">reply</a></u>
+                  </font>
+      </p></div></span></div></td></tr>
+      </tbody></table></td></tr>
+      <tr class="athing comtr " id="17239735"><td>
+            <table border="0">  <tbody><tr>    <td class="ind"><img src="CopperheadOS%20is%20undergoing%20a%20company%20takeover%20|%20Hacker%20News_files/s.gif" width="40" height="1"></td><td class="votelinks" valign="top"><center><a id="up_17239735" onclick='return vote(event, this, "up")' href="https://news.ycombinator.com/vote?id=17239735&amp;how=up&amp;auth=de247e61d80ddc0d577d4fb084d504df4bfb0373&amp;goto=item%3Fid%3D17239259#17239735"><div class="votearrow" title="upvote"></div></a></center></td><td class="default"><div style="margin-top:2px; margin-bottom:-10px;"><span class="comhead">
+          <a href="https://news.ycombinator.com/user?id=handbanana" class="hnuser">handbanana</a> <span class="age"><a href="https://news.ycombinator.com/item?id=17239735">38 minutes ago</a></span> <span id="unv_17239735"></span><span class="par"></span> <a class="togg" n="4" href="javascript:void(0)" onclick="return toggle(event, 17239735)">[-]</a>          <span class="storyon"></span>
+                  </span></div><br><div class="comment">
+                  <span class="c00">&gt; It's VERY unfortunate that Daniel Micay is airing dirty laundry<p>&gt;ironically, from a @gmail.com account,as he refuses to answer from his @copperhead.co address now</p><p>Go on...<span>
+              </span></p><div class="reply">        <p><font size="1">
+                      <u><a href="https://news.ycombinator.com/reply?id=17239735&amp;goto=item%3Fid%3D17239259%2317239735">reply</a></u>
+                  </font>
+      </p></div></span></div></td></tr>
+      </tbody></table></td></tr>
+        <tr class="athing comtr " id="17239768"><td>
+            <table border="0">  <tbody><tr>    <td class="ind"><img src="CopperheadOS%20is%20undergoing%20a%20company%20takeover%20|%20Hacker%20News_files/s.gif" width="80" height="1"></td><td class="votelinks" valign="top"><center><a id="up_17239768" onclick='return vote(event, this, "up")' href="https://news.ycombinator.com/vote?id=17239768&amp;how=up&amp;auth=38ee55e3388b036b42bd9b194f5a61222854b9c7&amp;goto=item%3Fid%3D17239259#17239768"><div class="votearrow" title="upvote"></div></a></center></td><td class="default"><div style="margin-top:2px; margin-bottom:-10px;"><span class="comhead">
+          <a href="https://news.ycombinator.com/user?id=_jayy" class="hnuser">_jayy</a> <span class="age"><a href="https://news.ycombinator.com/item?id=17239768">35 minutes ago</a></span> <span id="unv_17239768"></span><span class="par"></span> <a class="togg" n="3" href="javascript:void(0)" onclick="return toggle(event, 17239768)">[-]</a>          <span class="storyon"></span>
+                  </span></div><br><div class="comment">
+                  <span class="c5a">I, as well as all other people in Copperhead, would prefer this issue disappear and we can go back to protecting our users.<p>However,
+ now that the cat is out of the bag: if you notice, the letters are 
+addressed to danielmicay@gmail.com because he refused to answer (or use 
+PGP regarding these answers, which has me believe he's okay with Google 
+reading our internal drama) using his Copperhead email address.<span>
+              </span></p><div class="reply">        <p><font size="1">
+                      <u><a href="https://news.ycombinator.com/reply?id=17239768&amp;goto=item%3Fid%3D17239259%2317239768">reply</a></u>
+                  </font>
+      </p></div></span></div></td></tr>
+      </tbody></table></td></tr>
+        <tr class="athing comtr " id="17239840"><td>
+            <table border="0">  <tbody><tr>    <td class="ind"><img src="CopperheadOS%20is%20undergoing%20a%20company%20takeover%20|%20Hacker%20News_files/s.gif" width="120" height="1"></td><td class="votelinks" valign="top"><center><a id="up_17239840" onclick='return vote(event, this, "up")' href="https://news.ycombinator.com/vote?id=17239840&amp;how=up&amp;auth=143073fd25b52c24ee3a71cb349588f2b852f5cf&amp;goto=item%3Fid%3D17239259#17239840"><div class="votearrow" title="upvote"></div></a></center></td><td class="default"><div style="margin-top:2px; margin-bottom:-10px;"><span class="comhead">
+          <a href="https://news.ycombinator.com/user?id=sam0x17" class="hnuser">sam0x17</a> <span class="age"><a href="https://news.ycombinator.com/item?id=17239840">28 minutes ago</a></span> <span id="unv_17239840"></span><span class="par"></span> <a class="togg" n="1" href="javascript:void(0)" onclick="return toggle(event, 17239840)">[-]</a>          <span class="storyon"></span>
+                  </span></div><br><div class="comment">
+                  <span class="c00">As if Google even cares about this. 
+Seriously, check your ego. You are just focusing on the gmail thing to 
+take focus away from whatever the actual dispute is.<span>
+              </span><div class="reply">        <p><font size="1">
+                      <u><a href="https://news.ycombinator.com/reply?id=17239840&amp;goto=item%3Fid%3D17239259%2317239840">reply</a></u>
+                  </font>
+      </p></div></span></div></td></tr>
+      </tbody></table></td></tr>
+    <tr class="athing comtr " id="17239918"><td>
+            <table border="0">  <tbody><tr>    <td class="ind"><img src="CopperheadOS%20is%20undergoing%20a%20company%20takeover%20|%20Hacker%20News_files/s.gif" width="120" height="1"></td><td class="votelinks" valign="top"><center><a id="up_17239918" onclick='return vote(event, this, "up")' href="https://news.ycombinator.com/vote?id=17239918&amp;how=up&amp;auth=e65698aca56da5f7cd7207f1187bbe9ca5de1acf&amp;goto=item%3Fid%3D17239259#17239918"><div class="votearrow" title="upvote"></div></a></center></td><td class="default"><div style="margin-top:2px; margin-bottom:-10px;"><span class="comhead">
+          <a href="https://news.ycombinator.com/user?id=handbanana" class="hnuser">handbanana</a> <span class="age"><a href="https://news.ycombinator.com/item?id=17239918">22 minutes ago</a></span> <span id="unv_17239918"></span><span class="par"></span> <a class="togg" n="1" href="javascript:void(0)" onclick="return toggle(event, 17239918)">[-]</a>          <span class="storyon"></span>
+                  </span></div><br><div class="comment">
+                  <span class="c00">&gt; if you notice, the letters are addressed to danielmicay@gmail.com<p>Why do you think that is?</p><p>&gt; However, now that the cat is out of the bag</p><p>Go on...<span>
+              </span></p><div class="reply">        <p><font size="1">
+                      <u><a href="https://news.ycombinator.com/reply?id=17239918&amp;goto=item%3Fid%3D17239259%2317239918">reply</a></u>
+                  </font>
+      </p></div></span></div></td></tr>
+      </tbody></table></td></tr>
+                    <tr class="athing comtr " id="17239645"><td>
+            <table border="0">  <tbody><tr>    <td class="ind"><img src="CopperheadOS%20is%20undergoing%20a%20company%20takeover%20|%20Hacker%20News_files/s.gif" width="0" height="1"></td><td class="votelinks" valign="top"><center><a id="up_17239645" onclick='return vote(event, this, "up")' href="https://news.ycombinator.com/vote?id=17239645&amp;how=up&amp;auth=cb9ef23b4a12768c66749a3ac1ad9936cf582bf1&amp;goto=item%3Fid%3D17239259#17239645"><div class="votearrow" title="upvote"></div></a></center></td><td class="default"><div style="margin-top:2px; margin-bottom:-10px;"><span class="comhead">
+          <a href="https://news.ycombinator.com/user?id=Pywarrior" class="hnuser">Pywarrior</a> <span class="age"><a href="https://news.ycombinator.com/item?id=17239645">47 minutes ago</a></span> <span id="unv_17239645"></span><span class="par"></span> <a class="togg" n="2" href="javascript:void(0)" onclick="return toggle(event, 17239645)">[-]</a>          <span class="storyon"></span>
+                  </span></div><br><div class="comment">
+                  <span class="c00">It seems like the company must cease operations if they can not agree. Is that the case?<span>
+              </span><div class="reply">        <p><font size="1">
+                      <u><a href="https://news.ycombinator.com/reply?id=17239645&amp;goto=item%3Fid%3D17239259%2317239645">reply</a></u>
+                  </font>
+      </p></div></span></div></td></tr>
+      </tbody></table></td></tr>
+        <tr class="athing comtr " id="17239775"><td>
+            <table border="0">  <tbody><tr>    <td class="ind"><img src="CopperheadOS%20is%20undergoing%20a%20company%20takeover%20|%20Hacker%20News_files/s.gif" width="40" height="1"></td><td class="votelinks" valign="top"><center><a id="up_17239775" onclick='return vote(event, this, "up")' href="https://news.ycombinator.com/vote?id=17239775&amp;how=up&amp;auth=9e11710deba47b41a592c8442f6c62fc0a17f790&amp;goto=item%3Fid%3D17239259#17239775"><div class="votearrow" title="upvote"></div></a></center></td><td class="default"><div style="margin-top:2px; margin-bottom:-10px;"><span class="comhead">
+          <a href="https://news.ycombinator.com/user?id=_jayy" class="hnuser">_jayy</a> <span class="age"><a href="https://news.ycombinator.com/item?id=17239775">35 minutes ago</a></span> <span id="unv_17239775"></span><span class="par"></span> <a class="togg" n="1" href="javascript:void(0)" onclick="return toggle(event, 17239775)">[-]</a>          <span class="storyon"></span>
+                  </span></div><br><div class="comment">
+                  <span class="c00">This would be the last option. 
+Copperhead and CopperheadOS are too important a product and company to 
+just disappear because of one minor business dispute.<span>
+              </span><div class="reply">        <p><font size="1">
+                      <u><a href="https://news.ycombinator.com/reply?id=17239775&amp;goto=item%3Fid%3D17239259%2317239775">reply</a></u>
+                  </font>
+      </p></div></span></div></td></tr>
+      </tbody></table></td></tr>
+                <tr class="athing comtr " id="17239548"><td>
+            <table border="0">  <tbody><tr>    <td class="ind"><img src="CopperheadOS%20is%20undergoing%20a%20company%20takeover%20|%20Hacker%20News_files/s.gif" width="0" height="1"></td><td class="votelinks" valign="top"><center><a id="up_17239548" onclick='return vote(event, this, "up")' href="https://news.ycombinator.com/vote?id=17239548&amp;how=up&amp;auth=06ceb23229e6b9bdd5114c1ffec2abba93876885&amp;goto=item%3Fid%3D17239259#17239548"><div class="votearrow" title="upvote"></div></a></center></td><td class="default"><div style="margin-top:2px; margin-bottom:-10px;"><span class="comhead">
+          <a href="https://news.ycombinator.com/user?id=_salmon" class="hnuser">_salmon</a> <span class="age"><a href="https://news.ycombinator.com/item?id=17239548">55 minutes ago</a></span> <span id="unv_17239548"></span><span class="par"></span> <a class="togg" n="2" href="javascript:void(0)" onclick="return toggle(event, 17239548)">[-]</a>          <span class="storyon"></span>
+                  </span></div><br><div class="comment">
+                  <span class="c00">Isn't all the code on GitHub so anyone could continue working on it?<span>
+              </span><div class="reply">        <p><font size="1">
+                      <u><a href="https://news.ycombinator.com/reply?id=17239548&amp;goto=item%3Fid%3D17239259%2317239548">reply</a></u>
+                  </font>
+      </p></div></span></div></td></tr>
+      </tbody></table></td></tr>
+        <tr class="athing comtr " id="17239578"><td>
+            <table border="0">  <tbody><tr>    <td class="ind"><img src="CopperheadOS%20is%20undergoing%20a%20company%20takeover%20|%20Hacker%20News_files/s.gif" width="40" height="1"></td><td class="votelinks" valign="top"><center><font color="#ff6600">*</font><br>
+<img src="CopperheadOS%20is%20undergoing%20a%20company%20takeover%20|%20Hacker%20News_files/s.gif" width="14" height="1"></center></td><td class="default"><div style="margin-top:2px; margin-bottom:-10px;"><span class="comhead">
+          <span class="score" id="score_17239578">3 points</span> by <a href="https://news.ycombinator.com/user?id=yegortimoshenko" class="hnuser">yegortimoshenko</a> <span class="age"><a href="https://news.ycombinator.com/item?id=17239578">52 minutes ago</a></span> <span id="unv_17239578"></span><span class="par"></span> | <a href="https://news.ycombinator.com/edit?id=17239578">edit</a> | <a href="https://news.ycombinator.com/delete-confirm?id=17239578&amp;goto=item%3Fid%3D17239259">delete</a> <a class="togg" n="1" href="javascript:void(0)" onclick="return toggle(event, 17239578)">[-]</a>          <span class="storyon"></span>
+                  </span></div><br><div class="comment">
+                  <span class="c00">It's under non-free license (Creative Commons non-commercial).<span>
+              </span><div class="reply">        <p><font size="1">
+                      <u><a href="https://news.ycombinator.com/reply?id=17239578&amp;goto=item%3Fid%3D17239259%2317239578">reply</a></u>
+                  </font>
+      </p></div></span></div></td></tr>
+      </tbody></table></td></tr>
+              </tbody></table>
+      <br><br>
+  </td></tr>
+<tr><td><img src="CopperheadOS%20is%20undergoing%20a%20company%20takeover%20|%20Hacker%20News_files/s.gif" width="0" height="10"><table cellspacing="0" cellpadding="1" width="100%"><tbody><tr><td bgcolor="#ff6600"></td></tr></tbody></table><br><center><span class="yclinks"><a href="https://news.ycombinator.com/newsguidelines.html">Guidelines</a>
+        | <a href="https://news.ycombinator.com/newsfaq.html">FAQ</a>
+        | <a href="mailto:hn@ycombinator.com">Support</a>
+        | <a href="https://github.com/HackerNews/API">API</a>
+        | <a href="https://news.ycombinator.com/security.html">Security</a>
+        | <a href="https://news.ycombinator.com/lists">Lists</a>
+        | <a href="https://news.ycombinator.com/bookmarklet.html" rel="nofollow">Bookmarklet</a>
+        | <a href="http://www.ycombinator.com/legal/">Legal</a>
+        | <a href="http://www.ycombinator.com/apply/">Apply to YC</a>
+        | <a href="mailto:hn@ycombinator.com">Contact</a></span><br><br><form method="get" action="//hn.algolia.com/">Search:
+          <input name="q" size="17" autocorrect="off" spellcheck="false" autocapitalize="off" autocomplete="false" type="text"></form>
+            </center></td></tr>
+      </tbody></table></center><script type="text/javascript" src="CopperheadOS%20is%20undergoing%20a%20company%20takeover%20|%20Hacker%20News_files/hn.js"></script>
+  
+</body></html>
