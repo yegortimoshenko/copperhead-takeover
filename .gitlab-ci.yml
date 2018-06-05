@@ -1,5 +1,5 @@
 pages:
-  script: install -Dt public *
+  script: mkdir public && mv * $_
   artifacts:
     paths:
     - public
