@@ -1,12 +1,18 @@
+https://twitter.com/CopperheadOS/status/1003704234263511040
+
 Copperhead as a company doesn't share the goals and vision of this project and
 will not be involved in future endeavors. There is an attempt by James
 Donaldson to gain control over this project to pursue typical infosec industry
 rent seeking but can assure you it won't succeed.
 
+https://twitter.com/CopperheadOS/status/1003704704814026753
+
 CopperheadOS is a mix of code written before the company was founded, on my own
 time and on company time. It isn't possible to continue development due to the
 conflict. To be fair, here's their attempt at a coherent story: (A)
 https://paste.xinu.at/RrWPGW/ (B) https://paste.xinu.at/MBEyCM/
+
+https://twitter.com/CopperheadOS/status/1003705802270445573
 
 Spent almost four years working on this only to have it destroyed by my
 completely selfish, narcissistic and untrustworthy business partner. If you
