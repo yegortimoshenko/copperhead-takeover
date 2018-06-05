@@ -1,0 +1,381 @@
+@dnj
+mricon: it'll be an easy transition 
+mricon: mark my words - that will be the last option we move with 
+→ YegorTimoshenko[m] has joined 
+YegorTimoshenko[m]
+https://news.ycombinator.com/item?id=17239259 
+→ NinjahMeh_ has joined 
+← NinjahMeh has quit (synthon.oftc.net graviton.oftc.net) 
+← dnj has quit (synthon.oftc.net graviton.oftc.net) 
+MilkManzJourDaddy
+yegortimoshenko: Are you a Matrix user? 
+YegorTimoshenko[m]
+yes 
+→ dnj has joined 
+MilkManzJourDaddy
+yegortimoshenko: You are [Double Bridging](https://github.com/MilkManzJourDaddy/matrix-org/wiki/Glossary-of-Terms-in-Matrix#double-bridging).  You need to leave the [Portal Room](https://github.com/MilkManzJourDaddy/matrix-org/wiki/Glossary-of-Terms-in-Matrix#portal-room) and join [#CopperheadOS:matrix.org](https://matrix.to/#/#CopperheadOS:matrix.org). 
+← YegorTimoshenko[m] has left (User left) 
+→ YegorTimoshenko[m] has joined 
+YegorTimoshenko[m]
+MilkManzJourDaddy [99-Problems/A📌🚁/Falayalaralfali]: thank you! 
+Moral_
+topic 
+MilkManzJourDaddy
+You're welcome./N.p.  But you shoud still leave the Portal Room as Double Bridging is problematic. 
+resoluti0n
+Can someone resume the situation please 
+? 
+Who is James Donaldson? and what he was doing in the company? 
+what's this disagreement all about? 
+resoluti0n
+all the posts, links I've found on this are either deleted or not very cleared. 
+YegorTimoshenko[m]
+resoluti0n: here's what i managed to recover: https://gitlab.com/yegortimoshenko/copperhead-takeover/ 
+i'm quite sure there's more 
+also, live chat with james donaldson on hacker news 
+JollyRoger[m]
+Oh man. 
+shiver
+i don't think a hacker news article with a clickbait title was necessary 
+you don't know what you're talking about and you shouldn't make assumptions / point fingers without knowing the full scope of the situation 
+dnj
+shiver: agreed 
+YegorTimoshenko[m]: I'm right here bud 
+YegorTimoshenko[m]: your position is only damaging the company and the people who care about Copperhead 
+YegorTimoshenko[m]: btw 
+YegorTimoshenko[m]: you happy with that? 
+JollyRoger[m]
+What the hell. 
+dnj
+resoluti0n: I'm right here 
+YegorTimoshenko[m]
+dnj: i really can't comprehend how you can say that. you let a fucking takeover go under your nose, with every single bit of data about it being removed from the internet 
+no, i am not happy with that, and i don't think this is what i'm doing 
+i'm literally reposting what you wrote 
+dnj
+YegorTimoshenko[m]: do you know what a takeover is 
+YegorTimoshenko[m]: I didn't write that - a lawyer did 
+YegorTimoshenko[m]: you're very inexperienced with business or corporate structure 
+YegorTimoshenko[m]
+you mean, lawyer had access to @CopperheadOS twitter? 
+this is the only thing that i reposted 
+dnj
+YegorTimoshenko[m]: you also have, at most, 50% insight in to 
+resoluti0n
+dnj: Ok so from what I understand and  what I have read so far, you are the CEO and you want the lead developpers to leave Copperhead? 
+dnj
+resoluti0n: lol? 
+idk how people jump to these assumptions 
+YegorTimoshenko[m]
+you called for ceo to resign, now i call for ceo to resign. now you call me words and say what i do is damaging 
+dnj
+YegorTimoshenko[m]: show me where it says in the letter for the CEO to resign 
+(I'm the CEO) 
+YegorTimoshenko[m]
+resoluti0n: you're speaking to daniel micay 
+shiver
+-_- 
+dnj is James 
+YegorTimoshenko[m]
+oh 
+i took you for the wrong person 
+dnj
+<-- I'm James 
+YegorTimoshenko[m]
+i thought you're daniel 
+dnj
+YegorTimoshenko[m]: no 
+resoluti0n
+ah ok sorry 
+dnj
+daniel is strcat 
+Moral_
+jesus christ 
+shiver
+if you care about copperheados i recommend removing your post YegorTimoshenko[m] 
+that isn't going to help 
+YegorTimoshenko[m]
+shiver: i don't think so. copperheados for the most part is daniel's work 
+mricon
+not to take any sides, but a company is more than just code. 
+YegorTimoshenko[m]
+dnj: to you, i should reiterate that selling stuff is secondary 
+dnj
+mricon: thank you 
+mricon: and truth 
+mricon
+selling stuff is what pays developers 
+dnj
+^ 
+and getting everyone paid and happy was and still is my #1 priority 
+mricon
+if you can't sell stuff, your developers go do something else 
+people hacking is just as hard as code hacking 
+dnj
+right 
+shiver: <3 
+it's truth 
+mricon
+I've done both and I have deep respect for people who do either of those well. 
+dnj
+YegorTimoshenko[m]: your framing of this as a take over is semantically incorrect and damaging 
+shiver
+Daniel has done a fantastic job and the technical success of CopperheadOS is owed to him. but you don't know what you're talking about YegorTimoshenko[m] 
+dnj
+^ 
+JollyRoger[m]
+Yeah. Let's not just pour gas on the fire. 
+YegorTimoshenko[m]
+well, i profoundly disagree with both of you 
+shiver
+and fwiw I'm not affiliated with copperhead, I'm just someone who would like to see it continue 
+dnj
+YegorTimoshenko[m]: do you use CopperheadOS? 
+YegorTimoshenko[m]: are you a customer of ours? 
+YegorTimoshenko[m]
+this is a corporate takeover, what you're doing is placing managers above authors 
+dnj
+YegorTimoshenko[m]: have you contributed any donations or code to CopperheadOS? 
+shiver
+did you even read the letter 
+MilkManzJourDaddy
+I wish I had time to figure out the "tl;dr" of all this.  But it's tough if statements need to be couched in legal terms.  Suffice it to say, from what I've skim-read in here, expect FUD. 
+dnj
+YegorTimoshenko[m]: so no 
+YegorTimoshenko[m]
+this capitalist mindset kills me. do you only think in terms of money that i've directly sent your way? 
+dnj
+YegorTimoshenko[m]: you're a troll, that's what you are 
+YegorTimoshenko[m]
+i know daniel. 
+MilkManzJourDaddy
+Yegor Timoshenko: I'm assuming English is a secondary language for you.  No? 
+dnj
+YegorTimoshenko[m]: good for you 
+YegorTimoshenko[m]: are you at any all related or have donated or helped Copperhead or CopperheadOS? 
+YegorTimoshenko[m]: you haven't - you're a troll, and you're starting a shitstorm of nonsense for no reason but to get your name made 
+YegorTimoshenko[m]: let me guess - you've never ran or owned or operated a company? 
+YegorTimoshenko[m]
+MilkManzJourDaddy [99-Problems/A📌🚁/Falayalaralfali]: that much can be inferred from my full name. is that relevant? 
+blacklight[m]
+Dnj probbally means that if you didnt contribute in either work or funding, then you have no right to critize them 
+MilkManzJourDaddy
+Yegor Timoshenko: Okay, you need to be a good netizen in here. 
+dnj
+blacklight[m]: kinda 
+blacklight[m]: everyone has a right to their opinion 
+blacklight[m]: I just wished we could debate here rather than post clickbait on HN 
+MilkManzJourDaddy
+And developers need to eat. 
+blacklight[m]
+I know 
+But i get your annoyence 
+YegorTimoshenko[m]
+you didn't contribute to any of the technical work. you're building business around something that is built on community projects 
+shiver
+i know daniel too YegorTimoshenko[m], he's without a doubt one of the best engineers I've ever spoken to 
+mricon
+YegorTimoshenko[m]: I believe fairly respected people have pointed out to you that, unless you're ready to start a Patreon account and help fund a developer, successful technical companies require both technical skills ans business skills 
+blacklight[m]
+Heck, the reason i became a contributer to the qubes os project is that i can help the project, and because i have a leading role in a part of the developement of it because of that, gives me the right to steer some stuff around in the project 
+YegorTimoshenko[m]
+i'm going to stop this discussion because it will never go anywhere. but this thing that you're trying to pull off won't succeed, i very much hope so 
+blacklight[m]
+you cannot expect a project to do that for you if you havent done anything to help out, wether it being work or funding 
+dnj
+YegorTimoshenko[m]: you're stopping because you're feeling heat from the dispute 
+MilkManzJourDaddy
+Yegor Timoshenko: Okay, dnj has the IRC side, but I lead tje Matrix side, and I do not allow trolling.  Did you come here for answers, or just to attack? 
+dnj
+YegorTimoshenko[m]: how do you think I FEEL from all of this? 
+blacklight[m]
+> you didn't contribute to any of the technical work. you're building business around something that is built on community projects 
+There is more to a company then just  writing stuff 
+dnj
+YegorTimoshenko[m]: have you taken a second to think about how someone, who has worked just as hard and as long as Daniel, feels having anonymous trolls attack me 
+it sucks 
+blacklight[m]
+People need to be paid 
+dnj
+that's what 
+^ 
+OSS has a huge issue with keeping people paid and making sure projects succeed 
+that's where people like me come in 
+YegorTimoshenko[m]
+MilkManzJourDaddy [99-Problems/A📌🚁/Falayalaralfali]: you should be very opinionated in order to qualify what i say as trolling 
+dnj
+fwiw YegorTimoshenko[m] hasn't said a damn thing in here or has helped Copperhead or CopperheadOS at all until this dispute started 
+YegorTimoshenko[m]
+i've come here to link to HN discussion 
+i thought daniel might be here 
+blacklight[m]
+Ive gotta side with milkman and dnj 
+dnj
+YegorTimoshenko[m]: he's not 
+mricon
+YegorTimoshenko[m]: you're the one who started the HN thread, and you've probably mortally wounded COS 
+blacklight[m]
+Your pulling stuff out of proportion for no apparent reason 
+mricon
+now anyone who's looking for a secure android solution will find that shitpost and decide to look elsewhere 
+JollyRoger[m]
+Yeah. Stop it! 
+MilkManzJourDaddy
+Yegor Timoshenko: I don't see you objectively seeking answers, but coming in with a prejudiced opinion. 
+YegorTimoshenko[m]
+MilkManzJourDaddy [99-Problems/A📌🚁/Falayalaralfali]: you could say the same about the other side 
+blacklight[m]
+Maybe we could contact HN and have it removed under the claim of false information 
+YegorTimoshenko[m]
+daniel would have likely had a different opinion than the consensus here. it's a copperhead channel, not just ceo's channel, or has it been taken over already? 
+blacklight[m]
+Nope 
+Just a copperhead user 
+mricon
+YegorTimoshenko[m]: you're shocked that people don't see it in black and white terms? 
+dnj
+YegorTimoshenko[m]: Daniel has ever right to talk internally to the company regarding our dispute, which is all we ever wanted 
+YegorTimoshenko[m]: airing dirty laundry online is the last thing anyone needs 
+mricon
+company disputes happen all the time. If you've been around *any* free software projects, you'd know that it's the hardest part about running a successful project 
+dnj
+and as mricon said 
+blacklight[m]
+And who are you to talk for daniel, claiming what his opinion would be 
+dnj
+I've had to deal with damage control for the last 48 hours 
+explaining to clients that we're good, that Copperhead still exists, that CopperheadOS isn't going anywhere, that Daniel can be worked with 
+YegorTimoshenko[m]
+blacklight: i didn't say his opinion would match mine, actually we very much fundamentally disagree. i didn't imply that 
+anyway, matrix bridge moderator will kick me off any second if i continue 
+blacklight[m]
+It sounded like it 
+mricon
+YegorTimoshenko[m]: everyone here wants CopperheadOS to survive and continue 
+blacklight[m]
+> anyway, matrix bridge moderator will kick me off any second if i continue 
+Wise decision 
+mricon
+YegorTimoshenko[m]: we have our opinions, but we're mature enough to know that shitposting on the internet is not the way to rescue a project 
+MilkManzJourDaddy
+Yegor Timoshenko: If you could be objective and not subjective…  Might you be able? 
+dnj
+YegorTimoshenko[m]: please delete that HN article 
+YegorTimoshenko[m]: you understand it will only further agitate the situation 
+I'm gonna go keep running the day-to-day and try to keep a clear head 
+I shouldn't have got involved ;p 
+now I feel sick 
+x: 
+YegorTimoshenko[m]
+i won't delete the article, and i've also archived comments that you've deleted which i'm promptly going to mirror elsewhere 
+resoluti0n
+Might I suggest posting a official statement about all this. This would prevent speculations and FUDs to spread further. 
+shiver
+might be best to do that dnj 
+YegorTimoshenko[m]
+if you are pro censorship and think taking down information can do anyone good in the world, you're very wrong. 
+shiver
+the hacker news article is grossly unfair, and i'm not on either side 
+dnj
+YegorTimoshenko[m]: nah, I was advised by multiple professionals that getting involved is only bad for the company and this dispute 
+YegorTimoshenko[m]: the company means the world to me, it's my everything 
+anything to hurt it hurts me and Daniel 
+shiver
+^ 
+dnj
+YegorTimoshenko[m]: every thing you are uploading and mirroring will be hurting us and CopperheadOS - think about that 
+YegorTimoshenko[m]
+please don't hold daniel hostage 
+i'm criticizing things you've done to him 
+shiver
+holy shit bro 
+YegorTimoshenko[m]
+not him 
+dnj
+YegorTimoshenko[m]: you have no idea what's happened between us 
+shiver
+did you read the letters 
+dnj
+YegorTimoshenko[m]: legit NO idea 
+mricon
+YegorTimoshenko[m]: yeah, if you're out on the quest to right wrongs, then you're going to burn down the whole village in the process 
+dnj
+^ 
+* dnj is trying to save the damned village 
+dnj
+;p 
+YegorTimoshenko[m]
+well, first off i should say you're over-dramatizing impact i can make in this situation. 
+MilkManzJourDaddy
+Yegor Timoshenko: What are your ties with Purism? 
+dnj
+YegorTimoshenko[m]: *I* am 
+? 
+YegorTimoshenko[m]: all I want is for this to go away 
+mricon
+YegorTimoshenko[m]: in the world of secure devices, negative publicity about internal company matters is extremely damaging 
+YegorTimoshenko[m]
+i like their hardware. are you going to call me a shill now? 
+blacklight[m]
+> not him 
+You do realize that by hurting the compsny, you hurt him indirectly to 
+MilkManzJourDaddy
+JohnMH 
+dnj
+<YegorTimoshenko[m]> i like their hardware. are you going to call me a shill now? 
+welp there you go 
+YegorTimoshenko[m]: you're acting in the interests of a competitor of ours 
+THAT makes total sense 
+blacklight[m]
+I can confirm this 
+YegorTimoshenko[m]
+hahaha 
+i doubt they perceive you as competitors, though 
+blacklight[m]
+Its alot of mouth to mouth marketing in a small niche market 
+Reputations can be deadly 
+dnj
+YegorTimoshenko[m]: why don't you just accept your 3 year old hardware and be happy? ;p 
+blacklight[m]
+Tbh, i wouldnt take purism seriously tho 
+dnj
+leave us alone 
+YegorTimoshenko[m]
+i just like free hardware, and i like copperheados because it's a well-maintained android disto with none of the google's stuff. don't be paranoid 
+and free software 
+blacklight[m]
+They have misleading marketing 
+take their coreboot implemtations, tldr keeping all the hardware blobs inside, and only using coreboot as a wrapper 
+Giving you exactly zero security benifit 
+At this point their laptops are just dells where me cleaner has run upon 
+YegorTimoshenko[m]
+dnj: hey, sure. people kept mentioning me and i couldn't resist replying 
+mricon
+yeah, I have a Librem 13... it's okay, but it's certainly not a masterpiece 
+I mean, i appreciate not having to run me_cleaner on my own 
+but they are not well-built, and it takes ages for them to fulfill orders 
+blacklight[m]
+You can get a x230 with way more software freedom, which is half the price 
+mricon
+yeah, I don't regret getting a Librem, but I've also learned that I mostly just fell for marketing 
+blacklight[m]
+Anyway, spreading fud will not help copperhead, dnj, or daniel, you wont even gain anything from it yourself, so what do you hope to possibly gain from all of this nonsense 
+* JollyRoger[m] nods. 
+mricon
+I would certainly regret it more if work didn't reimburse me for the cost of Librem. :) 
+JollyRoger[m]
+XD. Hehehehe. 
+→ Asara has joined 
+shiver
+"This shouldn't even be a profitable company -- it should be a non-profit open source project." 
+this is why i hate hacker news 
+mricon
+non-profit does not mean "doesn't earn any money" :) 
+JollyRoger[m]
+As for me... I decided to wait and in the end I ordered a Raptor Talos II. Now that the Talos Lite is out though the piece of a practical POWER computer has fallen hugely. 
+Unfortunately it isn't very portable. 
+**the price of 
+MilkManzJourDaddy
+Should the Dev's sleep in cardboard boxes, and hunt rats?  Canada is a bit cold at times. 
+mricon
+yeah, not super conducive to writing good code... 
