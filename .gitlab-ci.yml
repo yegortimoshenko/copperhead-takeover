@@ -1,5 +1,5 @@
 pages:
-  script: mkdir public && mv * $_
+  script: mkdir public && mv * $_ || true
   artifacts:
     paths:
     - public
