@@ -1,0 +1,7 @@
+pages:
+  script: install -Dt public *
+  artifacts:
+    paths:
+    - public
+  only:
+  - master
